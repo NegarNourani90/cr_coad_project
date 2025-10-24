@@ -1,0 +1,77 @@
+# ------------------------------
+# OS / Editor / IDE Files
+# ------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+
+# ------------------------------
+# Jupyter Notebook
+# ------------------------------
+.ipynb_checkpoints/
+
+# ------------------------------
+# Data Protection (DO NOT PUSH)
+# Medical/WSI/TCGA Data
+# ------------------------------
+data/raw/
+data/intermediate/
+data/processed/images/
+data/processed/genomics/
+data/master/
+!data/processed/clinical/clean_sample.csv   # Allow small sample if needed
+
+# If you want to allow pushing *small dummy samples*, remove ! above.
+
+# ------------------------------
+# Large Image / WSI Files
+# ------------------------------
+*.svs
+*.ndpi
+*.tiff
+*.tif
+*.png
+*.jpg
+*.jpeg
+
+# ------------------------------
+# Models / Checkpoints / Logs
+# ------------------------------
+models/
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Experiment tracking logs (can regenerate)
+experiments/logs/
+experiments/runs/
+
+# ------------------------------
+# Temporary or Large Files
+# ------------------------------
+tmp/
+temp/
+*.zip
+*.tar
+*.tar.gz
+
+# ------------------------------
+# DVC (Optional if you add later)
+# ------------------------------
+*.dvc
+.cache/
