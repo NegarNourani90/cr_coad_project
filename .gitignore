@@ -1,45 +1,32 @@
-# ------------------------------
-# OS / Editor / IDE Files
-# ------------------------------
+﻿# OS/Editor
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
-*.swp
 
-# ------------------------------
 # Python
-# ------------------------------
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.env
 .venv/
 env/
 venv/
 
-# ------------------------------
-# Jupyter Notebook
-# ------------------------------
+# Jupyter
 .ipynb_checkpoints/
 
-# ------------------------------
-# Data Protection (DO NOT PUSH)
-# Medical/WSI/TCGA Data
-# ------------------------------
+# ===== DATA PROTECTION =====
+# Keep all raw/intermediate/large data local
+data/TCGA_Clinical_Data/
 data/raw/
 data/intermediate/
 data/processed/images/
 data/processed/genomics/
 data/master/
-!data/processed/clinical/clean_sample.csv   # Allow small sample if needed
+models/
+experiments/logs/
+experiments/runs/
 
-# If you want to allow pushing *small dummy samples*, remove ! above.
-
-# ------------------------------
-# Large Image / WSI Files
-# ------------------------------
+# Large image formats
 *.svs
 *.ndpi
 *.tiff
@@ -48,30 +35,5 @@ data/master/
 *.jpg
 *.jpeg
 
-# ------------------------------
-# Models / Checkpoints / Logs
-# ------------------------------
-models/
-*.h5
-*.pt
-*.pth
-*.ckpt
-
-# Experiment tracking logs (can regenerate)
-experiments/logs/
-experiments/runs/
-
-# ------------------------------
-# Temporary or Large Files
-# ------------------------------
-tmp/
-temp/
-*.zip
-*.tar
-*.tar.gz
-
-# ------------------------------
-# DVC (Optional if you add later)
-# ------------------------------
-*.dvc
-.cache/
+# Allow a tiny sample if needed (uncomment line below when you create it)
+#!data/processed/clinical/manifest_sample.csv
