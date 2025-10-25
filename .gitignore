@@ -19,7 +19,12 @@ venv/
 data/TCGA_Clinical_Data/
 data/raw/
 data/intermediate/
-data/processed/images/
+# ignore everything in the folder…
+data/processed/images/*
+
+# …but allow this tiny sample index
+!data/processed/images/index_sample.csv
+
 data/processed/genomics/
 data/master/
 models/
@@ -37,5 +42,4 @@ experiments/runs/
 
 # Allow a tiny sample if needed (uncomment line below when you create it)
 !data/processed/clinical/manifest_sample.csv
-!data/processed/images/index_sample.csv
 
