@@ -50,7 +50,7 @@ Example environment setup:
 conda create -n crlm python=3.10 -y
 conda activate crlm
 pip install -r requirements.txt
-
+```
 
 
 Project Summary – Multimodal Metastasis Prediction (TCGA-COAD)
