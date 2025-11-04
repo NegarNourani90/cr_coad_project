@@ -1,0 +1,634 @@
+case_id,submitter_id,primary_diagnosis,gender,age_at_diagnosis,tumor_stage,metastasis_status,vital_status,days_to_death,patient_id
+0011a67b-1ba9-4a32-a6b8-7850759a38cf,TCGA-DC-6158,"Adenocarcinoma, NOS",male,25842,Stage I,0,Dead,334,TCGA-DC-6158
+01240896-3f3f-4bf9-9799-55c87bfacf36,TCGA-F4-6854,"Adenocarcinoma, NOS",female,28272,Stage IIA,0,Alive,'--,TCGA-F4-6854
+016c9c14-4c88-49f5-a11a-dd4bc282f11e,TCGA-DC-5337,"Adenocarcinoma, NOS",male,25202,Stage I,0,Alive,'--,TCGA-DC-5337
+01ad5016-f691-4bca-82a0-910429d8d25b,TCGA-AA-3561,"Adenocarcinoma, NOS",male,26420,Stage IIA,0,Alive,'--,TCGA-AA-3561
+01f493d4-229d-47a6-baa8-32a342c65d01,TCGA-AA-A00O,"Adenocarcinoma, NOS",female,30316,Stage IIIC,0,Alive,'--,TCGA-AA-A00O
+022f39e9-57ee-4b2b-8b3a-8929e3d69a37,TCGA-DM-A28F,"Adenocarcinoma, NOS",male,26856,Stage IIIB,0,Dead,1094,TCGA-DM-A28F
+02f9668c-71e6-485f-88b1-b37dc8bdd2ab,TCGA-AA-3866,"Adenocarcinoma, NOS",female,28672,Stage I,0,Alive,'--,TCGA-AA-3866
+03a9dd9d-62ae-4acd-9272-389274858f3d,TCGA-AF-3913,"Adenocarcinoma, NOS",male,'--,Stage III,0,Dead,316,TCGA-AF-3913
+03efbc94-a43d-4db0-9377-e397348430a6,TCGA-AA-3524,"Adenocarcinoma, NOS",male,31197,Stage II,0,Alive,'--,TCGA-AA-3524
+04178a4f-14b0-45ba-aa3e-f21638e23765,TCGA-AG-3578,Mucinous adenocarcinoma,female,27851,Stage IIA,0,Alive,'--,TCGA-AG-3578
+043a4745-566b-4106-b159-99cb8b394b81,TCGA-AA-3877,Mucinous adenocarcinoma,female,30377,Stage I,0,Alive,'--,TCGA-AA-3877
+04d7a52f-a89b-4114-a608-a6254b4d604f,TCGA-AA-3986,Not Reported,male,'--,'--,,Alive,'--,TCGA-AA-3986
+05ff79c5-1127-4cac-8f4c-84089a3f2cde,TCGA-AA-3862,Not Reported,male,'--,'--,,Alive,'--,TCGA-AA-3862
+065b26fc-6827-44d5-83d8-1100c63fcda6,TCGA-AG-3894,"Adenocarcinoma, NOS",male,23954,Stage IIA,0,Alive,'--,TCGA-AG-3894
+0687bea4-911a-4ef2-9fa2-531ef6ba7910,TCGA-NH-A6GC,Mucinous adenocarcinoma,female,24355,Stage IVB,1,Alive,'--,TCGA-NH-A6GC
+0712566e-3371-4715-95f1-5b792e72d758,TCGA-AA-A010,"Adenocarcinoma, NOS",female,16922,Stage IIB,0,Alive,'--,TCGA-AA-A010
+07dc5a1d-64b7-42ba-928e-9753bd533c1e,TCGA-A6-2675,"Adenocarcinoma, NOS",male,28813,Stage IIA,0,Alive,'--,TCGA-A6-2675
+081a3dc7-45e1-457d-add0-c4686140a8d0,TCGA-AA-A00D,"Adenocarcinoma, NOS",male,25689,Stage I,0,Alive,'--,TCGA-AA-A00D
+091e3084-04ee-4497-893c-d46226dec78f,TCGA-AA-A00U,"Adenocarcinoma, NOS",male,18263,Stage IIIB,0,Alive,'--,TCGA-AA-A00U
+093ca3a7-f545-468a-85ed-a35c3da03628,TCGA-EI-6510,Adenocarcinoma in tubulovillous adenoma,female,28328,'--,,Alive,'--,TCGA-EI-6510
+09942e9f-c178-44bc-9cd9-f5bfa350b23f,TCGA-AA-3519,"Adenocarcinoma, NOS",male,23131,Stage III,0,Alive,'--,TCGA-AA-3519
+09daff79-6493-45c1-8cba-9381259e2bea,TCGA-AG-A015,Unknown,female,24014,'--,,Alive,'--,TCGA-AG-A015
+0a2cb2f9-972c-450c-8b7a-115a4cb93658,TCGA-G5-6641,Mucinous adenocarcinoma,male,24486,Stage IIIA,0,Alive,'--,TCGA-G5-6641
+0a815133-0edd-4422-89f2-2f067b6f2156,TCGA-AA-3848,"Adenocarcinoma, NOS",female,30194,Stage IIIC,0,Dead,306,TCGA-AA-3848
+0a94eecf-4db2-4846-8383-c83ff02e4a9f,TCGA-D5-6922,"Adenocarcinoma, NOS",male,27771,Stage IIIA,0,Alive,'--,TCGA-D5-6922
+0b6b1937-4024-4f2c-aeca-46387277755f,TCGA-EF-5830,"Adenocarcinoma, NOS",male,19802,Stage IIB,0,Alive,'--,TCGA-EF-5830
+0b8de222-119a-40f3-8beb-12b9d933225b,TCGA-AA-3856,"Adenocarcinoma, NOS",male,21670,Stage IIA,0,Alive,'--,TCGA-AA-3856
+0bb786ee-07cf-4853-9b49-ec95cd14e282,TCGA-AG-A032,"Adenocarcinoma, NOS",male,24865,Stage IIIB,0,Alive,'--,TCGA-AG-A032
+0c463362-7925-4d9a-9d63-098b50af2fb9,TCGA-G4-6323,"Adenocarcinoma, NOS",male,18334,Stage IA,0,Alive,'--,TCGA-G4-6323
+0c53b010-4243-4da3-a059-7f54c9a850ec,TCGA-F4-6703,"Adenocarcinoma, NOS",male,23644,Stage IIA,0,Alive,'--,TCGA-F4-6703
+0cb0dac8-4ce2-444a-b1ae-1550e065b4d9,TCGA-AA-A01V,"Adenocarcinoma, NOS",male,21792,Stage I,0,Alive,'--,TCGA-AA-A01V
+0cb21fb0-520f-4105-99ec-697a335115b5,TCGA-EI-6917,Adenocarcinoma with mixed subtypes,male,12113,Stage IIIA,0,Alive,'--,TCGA-EI-6917
+0cbe9848-8eac-4ea8-a36b-fb74b4a33de7,TCGA-AA-A00K,"Adenocarcinoma, NOS",male,29189,Stage IIA,0,Alive,'--,TCGA-AA-A00K
+0dacc5ce-498f-4c60-9f78-7a013ffaa9ce,TCGA-D5-5538,Not Reported,female,22981,'--,,Dead,1661,TCGA-D5-5538
+0dc41cd5-0672-407c-9b4a-0f5f3970aa54,TCGA-A6-5660,"Adenocarcinoma, NOS",male,26803,Stage IIIC,0,Alive,'--,TCGA-A6-5660
+0e87e5fd-d5bb-4c0d-952d-711a6abbf336,TCGA-AA-3821,Mucinous adenocarcinoma,female,29706,Stage I,0,Alive,'--,TCGA-AA-3821
+0ec6ed47-db99-4273-9823-ffbde6a77091,TCGA-A6-6651,"Adenocarcinoma, NOS",female,20110,Stage IIIB,0,Alive,'--,TCGA-A6-6651
+0eda7373-8335-455f-b90a-8c3540f28088,TCGA-AG-3574,"Adenocarcinoma, NOS",female,32781,Stage II,0,Dead,91,TCGA-AG-3574
+0f008098-d8aa-46dc-8445-cca59838c582,TCGA-AD-5900,Mucinous adenocarcinoma,male,24776,Stage I,0,Alive,'--,TCGA-AD-5900
+0f74d992-00da-4728-9564-086ca1b95921,TCGA-A6-2679,"Adenocarcinoma, NOS",female,26820,Stage IIB,0,Alive,'--,TCGA-A6-2679
+0f940ec0-eb0b-422a-a764-a26c8e5c216d,TCGA-AA-3837,Mucinous adenocarcinoma,male,24655,Stage IIA,0,Alive,'--,TCGA-AA-3837
+10290e91-9784-4f94-8daa-b5d9a8b0efb9,TCGA-AG-3593,"Adenocarcinoma, NOS",female,26480,Stage IIA,0,Alive,'--,TCGA-AG-3593
+10628a61-bd5e-4415-af97-631c5ca320cb,TCGA-AA-A00A,"Adenocarcinoma, NOS",male,29463,Stage IIA,0,Alive,'--,TCGA-AA-A00A
+107cb92b-6231-4e7a-af05-1f5de5981947,TCGA-AH-6549,"Adenocarcinoma, NOS",male,24337,'--,,Alive,'--,TCGA-AH-6549
+10881458-55b2-41d1-8358-4ee6ccb8ec85,TCGA-AA-A02K,"Adenocarcinoma, NOS",male,18506,Stage IV,1,Dead,426,TCGA-AA-A02K
+10994156-7c2f-420e-aeb8-11d566b3d5e4,TCGA-AA-3971,"Adenocarcinoma, NOS",male,21518,Stage III,0,Alive,'--,TCGA-AA-3971
+1118490d-75aa-43cc-b2a2-c2af61829ffc,TCGA-AG-A01N,Not Reported,female,'--,'--,,Alive,'--,TCGA-AG-A01N
+1136dd50-242a-4659-aad4-c53f9e759bb3,TCGA-5M-AAT4,"Adenocarcinoma, NOS",male,27095,Stage IV,1,Dead,49,TCGA-5M-AAT4
+124b6856-f581-46da-9068-b0a49b999785,TCGA-AA-A00E,"Adenocarcinoma, NOS",male,23741,Stage IIA,0,Alive,'--,TCGA-AA-A00E
+127f738d-afa1-42f6-a9a0-f33806667b84,TCGA-AA-3562,"Carcinoma in situ, NOS",male,'--,'--,,Alive,'--,TCGA-AA-3562
+12f1d449-4da3-460d-b4f3-9e1232440a8b,TCGA-AG-3592,"Adenocarcinoma, NOS",male,25141,Stage IIA,0,Alive,'--,TCGA-AG-3592
+131e0571-de86-415f-b3fb-dc9f971258d3,TCGA-D5-6932,"Adenocarcinoma, NOS",male,25466,Stage IIA,0,Alive,'--,TCGA-D5-6932
+132229e5-947d-43e9-a54c-a97d4be7d604,TCGA-AA-A01F,"Adenocarcinoma, NOS",male,26298,Stage IIIB,0,Alive,'--,TCGA-AA-A01F
+1388bba1-02ba-40df-93e5-c3d58b7bbae0,TCGA-AG-4015,"Adenocarcinoma, NOS",female,31291,Stage IIA,0,Alive,'--,TCGA-AG-4015
+13ae9d83-a22f-451f-88bb-686051725cf3,TCGA-AA-A01P,"Adenocarcinoma, NOS",female,29554,Stage III,0,Dead,1158,TCGA-AA-A01P
+13eff2e5-e33a-485f-9ba4-8a7ccb3c7528,TCGA-AD-6888,Not Reported,male,27159,'--,,Dead,472,TCGA-AD-6888
+143f2dd6-a280-41c5-9242-442ef91b73ec,TCGA-DM-A288,Mucinous adenocarcinoma,male,25084,Stage IIIC,0,Dead,427,TCGA-DM-A288
+14c13b05-abfe-472e-83a9-b28f60e58ad8,TCGA-G4-6310,"Adenocarcinoma, NOS",male,25243,Stage IIIB,0,Alive,'--,TCGA-G4-6310
+14cc6f5b-5692-471e-98b4-ae200b3d8fed,TCGA-AY-5543,"Adenocarcinoma, NOS",female,23870,Stage IVA,1,Alive,'--,TCGA-AY-5543
+14efca0c-882d-4fba-b15c-64af6e213b80,TCGA-AA-3976,"Adenocarcinoma, NOS",male,25599,Stage IIIA,0,Alive,'--,TCGA-AA-3976
+1543c1da-bde4-41c1-a510-56b62db8cca8,TCGA-AG-3612,"Adenocarcinoma, NOS",female,20242,Stage IIIB,0,Alive,'--,TCGA-AG-3612
+156cb6c6-b5d4-4ea9-9495-fc972cf9c84a,TCGA-CI-6621,"Adenocarcinoma, NOS",male,23240,Stage IIIB,0,Alive,'--,TCGA-CI-6621
+1586cb0a-081a-4364-9470-46f9d0f0167d,TCGA-AG-3901,Mucinous adenocarcinoma,female,24502,Stage IIIB,0,Alive,'--,TCGA-AG-3901
+15b987ba-77ab-477b-a54a-65ec5c7c399e,TCGA-AA-3495,"Adenocarcinoma, NOS",male,28886,Stage I,0,Alive,'--,TCGA-AA-3495
+15d1b0fb-5c5f-4689-94f5-b33120a2bfae,TCGA-D5-5539,Not Reported,male,22676,'--,,Alive,'--,TCGA-D5-5539
+16a9e1c5-85c2-4930-a16c-af59114bac9a,TCGA-DC-6683,"Adenocarcinoma, NOS",male,15918,Stage IIIB,0,Alive,'--,TCGA-DC-6683
+17633a60-e12b-4a7c-bd8a-c16341ddc606,TCGA-CA-5256,"Adenocarcinoma, NOS",female,19785,Stage IIA,0,Alive,'--,TCGA-CA-5256
+17878cb0-a8f9-43a4-911c-0f94c2a5e3df,TCGA-AG-A02G,"Adenocarcinoma, NOS",male,24259,Stage IV,1,Dead,1185,TCGA-AG-A02G
+17a8d208-fcf6-4480-945c-848d4234aafd,TCGA-AG-3600,"Adenocarcinoma, NOS",male,22767,Stage IIIC,0,Alive,'--,TCGA-AG-3600
+17e286b7-7793-446d-b556-1108addb5ba2,TCGA-AF-3911,"Adenocarcinoma, NOS",male,17609,Stage IIIC,0,Alive,'--,TCGA-AF-3911
+182fe81e-9c96-4824-8a8a-28f7c498020f,TCGA-AH-6897,"Adenocarcinoma, NOS",male,17536,Stage I,0,Alive,'--,TCGA-AH-6897
+19089ae0-b590-4649-9d94-a147fa506e32,TCGA-G4-6627,"Adenocarcinoma, NOS",male,30697,Stage IIA,0,Alive,'--,TCGA-G4-6627
+192da41f-f0a5-494e-8eb9-96bcdae56ff8,TCGA-AA-3819,"Adenocarcinoma, NOS",female,15280,Stage IIA,0,Alive,'--,TCGA-AA-3819
+19d1a5fc-3ce9-4e43-a364-a4150bcf911b,TCGA-A6-2686,"Adenocarcinoma, NOS",female,29623,Stage IIA,0,Dead,1126,TCGA-A6-2686
+19e46a3d-18c5-4927-8501-2265e2d617b8,TCGA-AG-A020,Mucinous adenocarcinoma,female,20851,Stage III,0,Alive,'--,TCGA-AG-A020
+1a09207e-9184-4f32-bd07-a9f4dc6c825d,TCGA-AA-3833,"Adenocarcinoma, NOS",female,23011,Stage IIA,0,Alive,'--,TCGA-AA-3833
+1ad0b9b9-7ded-4281-b114-9dcc6138c037,TCGA-AA-3530,"Adenocarcinoma, NOS",male,29402,Stage I,0,Alive,'--,TCGA-AA-3530
+1add38c2-df6f-47c9-9373-0bec0e40baf8,TCGA-AA-3851,"Adenocarcinoma, NOS",male,27090,Stage IIA,0,Alive,'--,TCGA-AA-3851
+1b0b0533-7c4f-4edd-a75e-8b56f49d54ab,TCGA-DM-A1D0,"Adenocarcinoma, NOS",female,28875,Stage IIA,0,Alive,'--,TCGA-DM-A1D0
+1c111912-c664-42f5-9802-065b1994a2f4,TCGA-F4-6855,"Adenocarcinoma, NOS",female,25890,Stage IIA,0,Alive,'--,TCGA-F4-6855
+1e0789d6-7efb-4807-8d36-cd9224675a0c,TCGA-NH-A8F8,"Adenocarcinoma, NOS",male,29185,Stage IV,1,Dead,511,TCGA-NH-A8F8
+1e89c189-7c8a-44c9-9b0f-2f625a285003,TCGA-AH-6903,Mucinous adenocarcinoma,male,17030,Stage IIIB,0,Alive,'--,TCGA-AH-6903
+1fd75c4d-e74c-410c-a150-814722c6c1cc,TCGA-AZ-4313,"Adenocarcinoma, NOS",female,'--,Stage IA,0,Alive,'--,TCGA-AZ-4313
+205f30ff-fb10-44a8-a1c6-c538de100db5,TCGA-DY-A1DC,"Adenocarcinoma, NOS",female,27066,'--,,Dead,1258,TCGA-DY-A1DC
+20ccd267-74e5-4574-a8e1-028bcd74aaeb,TCGA-AA-3872,"Adenocarcinoma, NOS",male,16651,Stage IV,1,Alive,'--,TCGA-AA-3872
+21bdad0d-c6a2-428c-b2b4-0de282b34abc,TCGA-AA-3850,"Adenocarcinoma, NOS",male,27090,Stage I,0,Dead,0,TCGA-AA-3850
+21ddbfaa-1b21-4a2b-be2c-237dd69b20ff,TCGA-A6-6140,"Adenocarcinoma, NOS",male,22835,Stage IIA,0,Alive,'--,TCGA-A6-6140
+21e8c2b7-3a80-4b7e-acec-6ff863f15324,TCGA-AG-3726,"Adenocarcinoma, NOS",female,23345,Stage I,0,Alive,'--,TCGA-AG-3726
+227f945f-76fd-4a63-9609-d4e730a3d22a,TCGA-CM-5349,"Adenocarcinoma, NOS",female,24867,Stage IIA,0,Alive,'--,TCGA-CM-5349
+23252dca-e836-47a0-b294-758ad60aa259,TCGA-G4-6299,"Adenocarcinoma, NOS",male,25318,Stage IIIC,0,Alive,'--,TCGA-G4-6299
+23d0681a-912a-408f-b19a-0bbcf5ffc2f3,TCGA-AA-3695,"Adenocarcinoma, NOS",female,23164,Stage IV,1,Alive,'--,TCGA-AA-3695
+25b43e40-e1f9-42a0-8052-5138f381eed9,TCGA-EI-6512,Adenocarcinoma in tubulovillous adenoma,female,23537,Stage IIIB,0,Alive,'--,TCGA-EI-6512
+25c3201a-3dd5-4edf-ad09-104e5c10663e,TCGA-A6-5666,Not Reported,male,29023,'--,,Alive,'--,TCGA-A6-5666
+261925e3-96e4-440c-8e95-c003d44ab2f2,TCGA-DC-6156,"Adenocarcinoma, NOS",male,22706,Stage IVA,1,Alive,'--,TCGA-DC-6156
+264c0d45-078a-4207-a101-71f99bcd237e,TCGA-G4-6303,Not Reported,female,20672,'--,,Dead,2003,TCGA-G4-6303
+265d7b06-65fe-42c5-ad21-e6b160e94718,TCGA-AA-3552,"Adenocarcinoma, NOS",male,31290,Stage IIIC,0,Dead,396,TCGA-AA-3552
+268c01b3-d2ce-44c0-a2fe-ea846a1253cc,TCGA-CA-6717,Mucinous adenocarcinoma,male,20984,Stage IIA,0,Alive,'--,TCGA-CA-6717
+26964b56-583f-46cc-ab2e-a948bf3e5432,TCGA-DC-6682,"Adenocarcinoma, NOS",male,21062,Stage IIA,0,Alive,'--,TCGA-DC-6682
+269e8ca8-722d-449b-ace1-6545bd72bdd6,TCGA-AA-3527,"Adenocarcinoma, NOS",female,32871,Stage IIA,0,Alive,'--,TCGA-AA-3527
+26a12266-c6d8-42f9-bd4e-5093d827ac9a,TCGA-AM-5820,"Adenocarcinoma, NOS",female,21902,Stage IVA,1,Alive,'--,TCGA-AM-5820
+26a41625-4680-47b2-afa9-6a72b148e1c0,TCGA-CA-5254,"Adenocarcinoma, NOS",female,15415,Stage IIA,0,Alive,'--,TCGA-CA-5254
+27d9c162-11bb-48fb-a41a-aa05fcb4c1c2,TCGA-G4-6293,"Adenocarcinoma, NOS",female,18076,Stage III,0,Alive,'--,TCGA-G4-6293
+27e2438d-bd01-4c50-9102-563276ed9922,TCGA-D5-6898,"Adenocarcinoma, NOS",female,18874,Stage I,0,Alive,'--,TCGA-D5-6898
+28033279-cc74-4775-afdf-2497f6ddb55c,TCGA-AA-3506,"Adenocarcinoma, NOS",male,28275,Stage I,0,Alive,'--,TCGA-AA-3506
+286cbae3-8324-43b7-9b20-0f40dda1588e,TCGA-D5-6930,Mucinous adenocarcinoma,male,24764,Stage IIA,0,Alive,'--,TCGA-D5-6930
+28d03569-8717-40da-8989-70baf2b18f9f,TCGA-A6-5667,"Adenocarcinoma, NOS",female,14756,Stage IIIB,0,Alive,'--,TCGA-A6-5667
+2900eadd-7e27-4371-94e5-7d58cdff0138,TCGA-F4-6461,Not Reported,female,15439,'--,,Dead,338,TCGA-F4-6461
+2a7903cc-345d-48f7-9fec-b4a5f09f8002,TCGA-AG-3599,Mucinous adenocarcinoma,male,25749,Stage I,0,Alive,'--,TCGA-AG-3599
+2a7bbafe-d499-4241-ba3d-a52ba0a5db3c,TCGA-F4-6460,Not Reported,female,18950,'--,,Dead,972,TCGA-F4-6460
+2a971e32-b0e7-4a3f-8c40-62d69c0307d8,TCGA-AA-A03F,Mucinous adenocarcinoma,female,32872,Stage III,0,Dead,0,TCGA-AA-A03F
+2b1783da-9ede-4590-b96a-6b0eabc8777f,TCGA-EI-7002,Tubular adenocarcinoma,male,21192,Stage IV,1,Alive,'--,TCGA-EI-7002
+2b94070a-21ec-457b-88af-3d2a89b97ac6,TCGA-AA-3712,"Adenocarcinoma, NOS",male,23831,Stage III,0,Alive,'--,TCGA-AA-3712
+2bd23664-453b-4fbf-823e-6dbcde0c4a2a,TCGA-DC-6160,"Adenocarcinoma, NOS",male,24990,Stage I,0,Alive,'--,TCGA-DC-6160
+2c0a725a-e829-4d84-89d9-d0d47f6cfa37,TCGA-G4-6628,"Adenocarcinoma, NOS",male,'--,'--,,Alive,'--,TCGA-G4-6628
+2c30dc20-18a8-44f9-ab10-558c1e5634dc,TCGA-AY-6196,Mucinous adenocarcinoma,male,17311,Stage IIIC,0,Alive,'--,TCGA-AY-6196
+2c9996bb-af6e-4424-881a-e81b9c9aeb78,TCGA-AA-3688,"Adenocarcinoma, NOS",male,29220,Stage IV,1,Alive,'--,TCGA-AA-3688
+2cf90e4e-b952-4a77-aaa9-39e4e2e5c4b3,TCGA-G5-6572,"Adenocarcinoma, NOS",male,20475,'--,,Dead,1432,TCGA-G5-6572
+2d02bd7a-5beb-4e43-9ccb-18d89c9d5ca2,TCGA-AA-3560,Not Reported,female,'--,'--,,Alive,'--,TCGA-AA-3560
+2d3ce817-b269-4662-a92d-392bd3662399,TCGA-CM-5341,"Adenocarcinoma, NOS",female,30163,Stage IIIA,0,Alive,'--,TCGA-CM-5341
+2db3c23d-c591-4ea0-b0a8-ed9c4343c80e,TCGA-CK-4951,Mucinous adenocarcinoma,female,29462,'--,,Dead,2134,TCGA-CK-4951
+2dced66c-1f0d-4039-a5e5-54cca77c16e9,TCGA-AA-3548,"Adenocarcinoma, NOS",female,26175,Stage IIIC,0,Alive,'--,TCGA-AA-3548
+2e386e48-b99b-4806-a3e3-081d72a606e7,TCGA-AA-A01X,Not Reported,female,30072,'--,,Alive,'--,TCGA-AA-A01X
+2faf928d-453a-4d07-b058-b5d4e1d13845,TCGA-AF-2693,"Adenocarcinoma, NOS",male,27443,Stage I,0,Alive,'--,TCGA-AF-2693
+300fff5a-0f61-402d-b845-3938ba7b1294,TCGA-QG-A5YX,"Adenocarcinoma, NOS",female,22617,Stage IIA,0,Alive,'--,TCGA-QG-A5YX
+303286c2-bc58-4bbb-9171-74cdb1d7f62f,TCGA-G4-6306,"Adenocarcinoma, NOS",male,26163,'--,0,Alive,'--,TCGA-G4-6306
+3124e819-292b-48e7-baac-8c5c4a86dc20,TCGA-AG-3581,"Adenocarcinoma, NOS",male,23345,Stage I,0,Alive,'--,TCGA-AG-3581
+315ef7f6-ca21-4d87-8f19-40bd455885ec,TCGA-AY-4071,"Adenocarcinoma, NOS",female,23320,Stage I,0,Dead,29,TCGA-AY-4071
+3165bf70-df19-4043-bcfc-9ae92197ef72,TCGA-EI-6885,Tubular adenocarcinoma,female,21435,'--,,Alive,'--,TCGA-EI-6885
+31a3877d-3e82-450e-811f-3448b06f3950,TCGA-AA-3655,"Adenocarcinoma, NOS",male,24896,Stage II,0,Alive,'--,TCGA-AA-3655
+31bd8589-378c-40e5-8b7f-3b4c81f304be,TCGA-AG-A026,"Adenocarcinoma, NOS",male,24413,Stage II,0,Dead,59,TCGA-AG-A026
+31d960d7-8f5b-4d22-bf5e-fae0849c4efd,TCGA-D5-5540,"Adenocarcinoma, NOS",male,26972,Stage IIA,0,Alive,'--,TCGA-D5-5540
+326c1637-ea91-4006-b440-d38420af1ae5,TCGA-A6-6137,"Adenocarcinoma, NOS",male,20095,Stage IIIB,0,Alive,'--,TCGA-A6-6137
+32b77693-18e1-4692-8488-add1940c9e7c,TCGA-AU-6004,"Adenocarcinoma, NOS",female,25259,Stage I,0,Alive,'--,TCGA-AU-6004
+3334201d-a3c0-45ec-a9ed-cf48cc8c38e8,TCGA-AZ-4614,"Adenocarcinoma, NOS",female,26267,Stage IVA,1,Dead,172,TCGA-AZ-4614
+33522271-b2ca-4da4-a942-501ab9117c51,TCGA-AA-3693,"Adenocarcinoma, NOS",female,28459,Stage IV,1,Alive,'--,TCGA-AA-3693
+335d0351-3740-4847-9ff4-be2f078c70f7,TCGA-AF-2689,"Adenocarcinoma, NOS",female,15082,Stage IV,1,Dead,1201,TCGA-AF-2689
+33e91116-8844-4861-843d-784c70b4a6fc,TCGA-DC-6154,"Adenocarcinoma, NOS",female,21093,Stage IVA,1,Alive,'--,TCGA-DC-6154
+33e989b9-fac4-47d8-b429-269044ac772a,TCGA-AA-3977,"Adenocarcinoma, NOS",male,23832,'--,,Alive,'--,TCGA-AA-3977
+3470b1af-689f-467a-9f9e-de74088f9b94,TCGA-CM-6161,"Adenocarcinoma, NOS",female,13363,Stage I,0,Alive,'--,TCGA-CM-6161
+3546a93b-b279-4615-9d5f-5baa787e487e,TCGA-F5-6864,"Adenocarcinoma, NOS",female,27058,Stage IIIB,0,Alive,'--,TCGA-F5-6864
+35620be9-3ba5-4be7-9e00-83103e6a92e6,TCGA-AA-A02E,"Adenocarcinoma, NOS",female,30256,Stage IV,1,Dead,90,TCGA-AA-A02E
+35c295c2-37d1-44b2-87a3-1039645e5bae,TCGA-AA-3510,"Adenocarcinoma, NOS",male,25902,Stage II,0,Alive,'--,TCGA-AA-3510
+35c9264f-34ec-4d75-ab80-aaac86108fc8,TCGA-AY-6386,"Adenocarcinoma, NOS",female,24453,Stage IIIB,0,Alive,'--,TCGA-AY-6386
+368fd5c9-cd4b-4326-a47b-4d72938cfb8f,TCGA-AF-2690,"Adenocarcinoma, NOS",female,28119,Stage IIIC,0,Dead,524,TCGA-AF-2690
+36eaf209-c332-4321-b6aa-51a3368ecd79,TCGA-AA-3555,"Adenocarcinoma, NOS",female,29617,Stage IIA,0,Alive,'--,TCGA-AA-3555
+375436b3-66ac-4d5e-b495-18a96d812a69,TCGA-F5-6810,Not Reported,not reported,'--,'--,,Not Reported,'--,TCGA-F5-6810
+3758f4f7-ac2f-4f9d-bee2-526196f8129a,TCGA-CK-5913,"Adenocarcinoma, NOS",female,21399,Stage IIA,0,Alive,'--,TCGA-CK-5913
+381cf7f3-cd7b-4660-8175-ff8062f7bf78,TCGA-AA-A00L,Not Reported,male,'--,'--,,Alive,'--,TCGA-AA-A00L
+384400c1-98d6-4cc3-8724-de6711f6208b,TCGA-AA-3980,"Adenocarcinoma, NOS",female,32630,Stage I,0,Alive,'--,TCGA-AA-3980
+38d65618-4857-490e-86b3-0a3f772a9f60,TCGA-CK-5916,"Adenocarcinoma, NOS",female,26024,Stage I,0,Dead,643,TCGA-CK-5916
+398da5c2-d9f2-4eb4-9813-21009d3ad048,TCGA-CI-6624,"Adenocarcinoma, NOS",female,19419,Stage I,0,Alive,'--,TCGA-CI-6624
+39aec099-a33e-47a4-a602-cbf65ddd3830,TCGA-D5-6541,"Adenocarcinoma, NOS",male,18029,Stage IIA,0,Alive,'--,TCGA-D5-6541
+39b6ae01-c97b-4234-8a28-208fdf170432,TCGA-A6-6649,"Adenocarcinoma, NOS",male,24237,Stage IIIB,0,Alive,'--,TCGA-A6-6649
+39d3b5b3-d51e-4d77-a8aa-2977fa734fab,TCGA-AA-3869,"Adenocarcinoma, NOS",male,28062,Stage IV,1,Dead,822,TCGA-AA-3869
+3a785e32-7960-4c72-84c4-fb42c4dd86f1,TCGA-A6-2678,"Adenocarcinoma, NOS",female,16030,Stage IIIB,0,Alive,'--,TCGA-A6-2678
+3a8ca50f-bc9f-4250-8c8d-22893763ea46,TCGA-D5-6926,"Adenocarcinoma, NOS",male,23768,Stage IIIB,0,Alive,'--,TCGA-D5-6926
+3aae5316-6a5d-4b83-9020-ad691d4edf99,TCGA-G4-6626,"Adenocarcinoma, NOS",male,32871,Stage IIA,0,Dead,1,TCGA-G4-6626
+3aecf83e-c614-4ffa-8c82-1b5dadf6509e,TCGA-EI-6881,Adenocarcinoma in tubulovillous adenoma,male,22057,Stage IIIA,0,Alive,'--,TCGA-EI-6881
+3b55aa84-9fdc-4125-8d39-d8949de2a1b3,TCGA-CI-6619,"Adenocarcinoma, NOS",male,15322,Stage IV,1,Alive,'--,TCGA-CI-6619
+3bc6e336-f58e-4dc4-8414-7318e55016ed,TCGA-AG-A023,"Adenocarcinoma, NOS",female,22830,Stage IV,1,Dead,1581,TCGA-AG-A023
+3be106bc-ba42-4c70-9b50-697d89db617d,TCGA-AG-A011,"Adenocarcinoma, NOS",male,29463,Stage IIA,0,Alive,'--,TCGA-AG-A011
+3d8fd9b2-9aa2-4c81-8843-535ae66d6140,TCGA-AZ-4308,"Adenocarcinoma, NOS",female,17321,Stage IIIB,0,Alive,'--,TCGA-AZ-4308
+3e0c34cb-fca5-4bcf-a5c1-5a7d286dd072,TCGA-CA-5797,"Adenocarcinoma, NOS",male,20662,Stage IIA,0,Alive,'--,TCGA-CA-5797
+3e1886a8-2ed2-41ee-8b58-10f5321ade6f,TCGA-DM-A28K,Mucinous adenocarcinoma,male,27428,Stage IIA,0,Alive,'--,TCGA-DM-A28K
+3e97286f-8aa8-4b6a-b339-d7a8e30f60c2,TCGA-DC-6681,"Adenocarcinoma, NOS",female,25659,Stage IVA,1,Alive,'--,TCGA-DC-6681
+3eb37b12-b8b4-40a3-bd8b-f89fc39c05fa,TCGA-A6-6782,"Adenocarcinoma, NOS",male,30012,Stage IIB,0,Alive,'--,TCGA-A6-6782
+3f10de1e-c8ce-415e-b4e1-e50901686a2f,TCGA-DT-5265,Mucinous adenocarcinoma,male,18669,Stage II,0,Alive,'--,TCGA-DT-5265
+3f2ca278-c74a-4aa7-b029-189d9d0b510c,TCGA-AF-3914,"Adenocarcinoma, NOS",male,15272,'--,,Alive,'--,TCGA-AF-3914
+401a37f3-6630-4400-a811-a262351e37de,TCGA-AA-3531,"Adenocarcinoma, NOS",female,27514,Stage IIA,0,Alive,'--,TCGA-AA-3531
+40974ab3-e532-4d6e-9c98-ee640f3976d6,TCGA-EI-6514,Adenocarcinoma in tubulovillous adenoma,female,21618,Stage IIA,0,Alive,'--,TCGA-EI-6514
+40c217ee-429f-41f4-adc6-db9186622b17,TCGA-CM-6172,"Adenocarcinoma, NOS",female,25902,Stage IIIB,0,Alive,'--,TCGA-CM-6172
+4138aca8-e085-45fb-b353-74852efe61bf,TCGA-CM-6676,"Adenocarcinoma, NOS",male,30223,Stage I,0,Alive,'--,TCGA-CM-6676
+41658cf8-0de1-4a97-bb60-0f0107c84e00,TCGA-AA-3675,"Adenocarcinoma, NOS",male,30801,Stage II,0,Alive,'--,TCGA-AA-3675
+41f8c9fd-ae52-4458-886b-faf37de77dd0,TCGA-G4-6294,Not Reported,male,'--,'--,,Dead,858,TCGA-G4-6294
+44c2854e-3f8c-48e1-b4d5-1b5778d4fce4,TCGA-AA-3858,"Adenocarcinoma, NOS",male,24806,Stage I,0,Alive,'--,TCGA-AA-3858
+4563e4e0-a661-46de-ad25-9c86a621e147,TCGA-AA-3812,"Adenocarcinoma, NOS",female,29980,Stage IIA,0,Alive,'--,TCGA-AA-3812
+468c2ecb-a21f-49a7-91f3-63d3ef266cf8,TCGA-EI-6883,Tubular adenocarcinoma,male,23268,Stage IIC,0,Alive,'--,TCGA-EI-6883
+47a8e514-904c-4867-8f43-7eb573be835b,TCGA-AD-6963,"Adenocarcinoma, NOS",male,21294,'--,,Alive,'--,TCGA-AD-6963
+4881a390-c4e4-48b4-ae66-140c64a87614,TCGA-A6-A5ZU,"Adenocarcinoma, NOS",male,21554,Stage IIIB,0,Alive,'--,TCGA-A6-A5ZU
+490eabca-4575-4bd6-9604-6b6e23d069ce,TCGA-NH-A50T,"Adenocarcinoma, NOS",female,25089,Stage IIA,0,Alive,'--,TCGA-NH-A50T
+49929108-023e-4d35-b26d-50ab4d3ae581,TCGA-A6-2684,"Adenocarcinoma, NOS",female,28684,'--,,Alive,'--,TCGA-A6-2684
+4a785dc7-f5f6-4607-a19d-e6354b2fb5a9,TCGA-F4-6808,"Adenocarcinoma, NOS",female,19803,Stage I,0,Alive,'--,TCGA-F4-6808
+4aadf2a2-ce1e-4f94-b146-59292e83e7fd,TCGA-CM-5868,"Adenocarcinoma, NOS",female,21672,Stage IVA,1,Alive,'--,TCGA-CM-5868
+4ad9784e-1edc-4186-9b45-4dfe0003f74b,TCGA-A6-6138,"Adenocarcinoma, NOS",male,22523,Stage I,0,Alive,'--,TCGA-A6-6138
+4be66108-e72a-406b-bb4b-f58ff2877336,TCGA-AA-A01Q,"Adenocarcinoma, NOS",female,17715,Stage II,0,Alive,'--,TCGA-AA-A01Q
+4beee9d4-ee52-4fed-bcc4-d300f5ddd4d0,TCGA-A6-5661,"Adenocarcinoma, NOS",female,29446,Stage IIA,0,Alive,'--,TCGA-A6-5661
+4c6c8d3d-e4a3-490a-9211-cfbe7e6ee25b,TCGA-A6-5665,"Adenocarcinoma, NOS",female,30915,Stage IIA,0,Alive,'--,TCGA-A6-5665
+4d5437b3-b6a0-4d17-a7aa-4f2b790e4532,TCGA-EF-5831,"Adenocarcinoma, NOS",male,26331,Stage IIA,0,Alive,'--,TCGA-EF-5831
+4f601d7b-8db1-4c6d-9374-21dcd804980d,TCGA-AD-6895,Basaloid squamous cell carcinoma,male,'--,'--,,Alive,'--,TCGA-AD-6895
+4f786107-3cf5-4ab3-bba4-f399dee23f0e,TCGA-AA-3844,Not Reported,female,28886,'--,,Alive,'--,TCGA-AA-3844
+4f9775f2-b663-4daf-aa9e-50915cae9407,TCGA-A6-3808,"Adenocarcinoma, NOS",male,26666,Stage IIA,0,Alive,'--,TCGA-A6-3808
+5116e3b4-2bac-40f5-8046-b9c1783faaa5,TCGA-A6-3807,"Adenocarcinoma, NOS",female,19624,Stage IIIC,0,Alive,'--,TCGA-A6-3807
+515a062e-f68e-4100-a923-bd2ce0bbe071,TCGA-5M-AAT5,Not Reported,not reported,'--,'--,,Not Reported,'--,TCGA-5M-AAT5
+51c37449-6a2e-4c3d-a7cc-06f901e1224f,TCGA-AG-A014,"Adenocarcinoma, NOS",male,31718,Stage I,0,Alive,'--,TCGA-AG-A014
+51dcbfac-6f04-4364-877d-0bf1bd566335,TCGA-NH-A6GA,Not Reported,male,21319,'--,,Dead,302,TCGA-NH-A6GA
+5342e2e8-1465-4f7b-9450-ef27280f80c7,TCGA-CK-4952,Mucinous adenocarcinoma,female,17826,Stage IIIC,0,Alive,'--,TCGA-CK-4952
+5498d5ef-ad24-4034-9750-7c996c5355e1,TCGA-AA-3875,"Adenocarcinoma, NOS",female,28640,Stage I,0,Alive,'--,TCGA-AA-3875
+5555fbdd-962f-4d79-b36c-ae3c3cc4aff4,TCGA-DY-A1DE,Unknown,female,23820,'--,,Alive,'--,TCGA-DY-A1DE
+55697871-b9aa-4acd-8dbe-dcd5391db8f0,TCGA-CM-6674,"Adenocarcinoma, NOS",male,14368,Stage IIA,0,Alive,'--,TCGA-CM-6674
+563d67a1-f1ba-4722-aa2d-9b35b1689468,TCGA-CA-5255,"Adenocarcinoma, NOS",male,16743,Stage IIA,0,Alive,'--,TCGA-CA-5255
+565e2726-4942-4726-89d3-c5e3797f7204,TCGA-A6-2671,Not Reported,male,32159,'--,,Dead,1331,TCGA-A6-2671
+567ddc8e-2b00-417d-a326-479cb02e08dd,TCGA-G4-6304,Not Reported,female,25031,'--,,Alive,'--,TCGA-G4-6304
+568dbda7-88b5-4330-881f-dc5d6c7ce4ae,TCGA-G4-6307,"Adenocarcinoma, NOS",female,13648,Stage IIIB,0,Alive,'--,TCGA-G4-6307
+56c8b812-ca8e-4eb2-b0fe-f264316789bf,TCGA-DM-A1HA,"Adenocarcinoma, NOS",male,30272,Stage IIIC,0,Alive,'--,TCGA-DM-A1HA
+56d5b0b9-9093-4286-a2c6-7faa9a1680f5,TCGA-AZ-6603,"Adenocarcinoma, NOS",female,28424,'--,,Dead,899,TCGA-AZ-6603
+56e612e8-2c29-4782-be79-2813cc8dd2e6,TCGA-AA-A00J,Mucinous adenocarcinoma,male,29371,Stage IIIB,0,Alive,'--,TCGA-AA-A00J
+56eb96a4-d2c2-42fb-b26c-1a80012bcb8e,TCGA-CM-4747,"Adenocarcinoma, NOS",male,17198,Stage IVA,1,Alive,'--,TCGA-CM-4747
+57a2044d-20cc-4d02-b268-ce570a0fabe3,TCGA-AA-3713,"Adenocarcinoma, NOS",male,24927,Stage IV,1,Alive,'--,TCGA-AA-3713
+57b0f89f-1b75-453e-922c-01cd4d44ca49,TCGA-CK-5914,"Adenocarcinoma, NOS",male,29586,Stage IIIB,0,Alive,'--,TCGA-CK-5914
+57cdaa1c-4e94-4a28-ab3b-300c0457555f,TCGA-A6-2674,Mucinous adenocarcinoma,male,26292,Stage IV,1,Alive,'--,TCGA-A6-2674
+58facedb-fcb8-4ecf-8338-2bfa4947acef,TCGA-A6-6141,"Adenocarcinoma, NOS",male,11391,Stage IIA,0,Alive,'--,TCGA-A6-6141
+594a52b0-c929-4e50-ae27-7542e32667ae,TCGA-AG-3580,"Adenocarcinoma, NOS",male,24775,Stage I,0,Alive,'--,TCGA-AG-3580
+5a195baa-2d05-4273-a7c4-64cc816b0406,TCGA-AA-3982,"Adenocarcinoma, NOS",male,27608,Stage IIIB,0,Alive,'--,TCGA-AA-3982
+5a7d19f9-6be2-45ac-9ffc-11e28594eeee,TCGA-AG-3898,"Adenocarcinoma, NOS",male,22492,Stage IIA,0,Alive,'--,TCGA-AG-3898
+5af7b4eb-8314-41ce-ab2b-f98054a78a8b,TCGA-AG-3583,"Adenocarcinoma, NOS",male,24107,Stage IV,1,Dead,610,TCGA-AG-3583
+5b259d18-3976-4f44-967f-fe5fa8447c8b,TCGA-CM-5864,"Adenocarcinoma, NOS",male,22219,Stage I,0,Alive,'--,TCGA-CM-5864
+5bc1db25-3e25-44d7-99cb-e31f00cf1d58,TCGA-AF-6136,"Adenocarcinoma, NOS",female,26490,Stage IIIB,0,Alive,'--,TCGA-AF-6136
+5c24435e-8e50-42c2-80c7-919b1cad0133,TCGA-AA-3955,"Adenocarcinoma, NOS",male,14186,Stage IIIB,0,Alive,'--,TCGA-AA-3955
+5d4b9087-fa7b-47b8-9b12-adc0dd1cf17c,TCGA-AF-5654,"Adenocarcinoma, NOS",female,26738,Stage I,0,Dead,512,TCGA-AF-5654
+5d66191d-da49-4d7e-89a4-a382db338340,TCGA-D5-6931,"Adenocarcinoma, NOS",male,28292,Stage IIIC,0,Alive,'--,TCGA-D5-6931
+5d73b382-3da3-4220-890e-2095228bbe6c,TCGA-CK-4948,"Adenocarcinoma, NOS",female,16736,Stage III,0,Alive,'--,TCGA-CK-4948
+5da56982-6de7-4994-aa9e-3b01200b2959,TCGA-AA-3861,"Adenocarcinoma, NOS",male,26602,Stage IIA,0,Alive,'--,TCGA-AA-3861
+5daa9f6b-eeba-466f-992b-2bd29fa60e93,TCGA-AG-3575,"Adenocarcinoma, NOS",male,18932,Stage II,0,Alive,'--,TCGA-AG-3575
+5e7074a6-5011-4dc5-950c-41365dbc6d09,TCGA-AD-6964,"Adenocarcinoma, NOS",male,21782,'--,,Dead,331,TCGA-AD-6964
+5eed7e8a-c219-4497-a99f-bfc48faca4d8,TCGA-G4-6625,"Melanoma, NOS",female,'--,'--,,Alive,'--,TCGA-G4-6625
+5f10f8e4-a6f9-4643-b210-390bc8fd32bd,TCGA-AF-4110,"Adenocarcinoma, NOS",male,28289,Stage IVA,1,Alive,'--,TCGA-AF-4110
+5f1399ef-8100-49e7-806f-9f532e55c0ba,TCGA-AA-3520,"Adenocarcinoma, NOS",female,31531,Stage II,0,Alive,'--,TCGA-AA-3520
+5f6ed48b-3b5a-4d20-8fbf-c9aa3feea186,TCGA-RU-A8FL,"Adenocarcinoma, NOS",male,18975,Stage IIIB,0,Alive,'--,TCGA-RU-A8FL
+605baa86-79e3-484d-82d2-4de27d405ba1,TCGA-AM-5821,"Adenocarcinoma, NOS",female,24903,Stage IIA,0,Alive,'--,TCGA-AM-5821
+60778da8-d99e-4e51-96a2-3e900b3978d9,TCGA-AG-3999,Unknown,female,23102,'--,,Alive,'--,TCGA-AG-3999
+60ad2c8a-6bbf-43fc-ae73-cc1f6d6c163c,TCGA-AA-A00F,"Adenocarcinoma, NOS",male,24379,Stage IIIC,0,Alive,'--,TCGA-AA-A00F
+613aa3e8-a70b-45a9-9c08-0c2346c8bf00,TCGA-AD-A5EJ,"Adenocarcinoma, NOS",female,27180,Stage IIA,0,Alive,'--,TCGA-AD-A5EJ
+6221496d-40cc-4071-969f-6fbcba4f573c,TCGA-AF-6672,"Adenocarcinoma, NOS",male,16244,'--,,Alive,'--,TCGA-AF-6672
+622cc1c4-d721-4b5c-a88b-216d6368660b,TCGA-G4-6297,Not Reported,female,20542,'--,,Alive,'--,TCGA-G4-6297
+628408ce-0691-4e0b-b4c7-aca9a0d73bb0,TCGA-AA-3673,"Adenocarcinoma, NOS",female,19509,Stage II,0,Alive,'--,TCGA-AA-3673
+62d39be5-f029-4eb8-8b00-46470e06a755,TCGA-AA-A00Q,"Adenocarcinoma, NOS",female,24199,Stage IIIB,0,Alive,'--,TCGA-AA-A00Q
+634d542b-a72f-408b-9fef-65ef6c45f882,TCGA-DC-6157,"Adenocarcinoma, NOS",male,17807,Stage I,0,Alive,'--,TCGA-DC-6157
+639e1050-088a-48fe-a0ef-4a01a3468cac,TCGA-AA-3496,"Adenocarcinoma, NOS",female,30438,Stage II,0,Alive,'--,TCGA-AA-3496
+644571e9-b8e6-42f3-a2e4-33bad0fac661,TCGA-DC-4745,"Adenocarcinoma, NOS",female,17958,Stage IIIB,0,Alive,'--,TCGA-DC-4745
+6454ff0c-26f8-4cc2-b77c-7e5abdc20acd,TCGA-NH-A8F7,"Adenocarcinoma, NOS",female,19535,Stage IIA,0,Alive,'--,TCGA-NH-A8F7
+64b0461f-038d-4712-948e-818dc2f10eef,TCGA-D5-6929,"Adenocarcinoma, NOS",female,17919,Stage IV,1,Alive,'--,TCGA-D5-6929
+64bd568d-0509-48fe-8d0a-aef2a85d5c57,TCGA-F4-6856,Mucinous adenocarcinoma,male,16519,Stage I,0,Alive,'--,TCGA-F4-6856
+64dcf1a5-c78c-4d3f-852c-15865b3b6189,TCGA-AZ-6607,"Adenocarcinoma, NOS",male,25448,Stage IV,1,Dead,97,TCGA-AZ-6607
+65056295-8fcd-4f82-a3c9-a5acd79521fe,TCGA-A6-6648,"Adenocarcinoma, NOS",male,20641,Stage IVA,1,Alive,'--,TCGA-A6-6648
+652e503a-1be8-445b-96d6-ff114f911e76,TCGA-EI-6509,Adenocarcinoma in tubulovillous adenoma,male,19756,'--,,Alive,'--,TCGA-EI-6509
+654c6f5c-3e5c-49f0-b53f-87cd9797d7c9,TCGA-AA-3947,Mucinous adenocarcinoma,female,22035,Stage IIB,0,Alive,'--,TCGA-AA-3947
+65ab030d-39f2-48ab-80ac-90cb1faa823a,TCGA-CA-5796,Mucinous adenocarcinoma,female,19353,Stage IIA,0,Alive,'--,TCGA-CA-5796
+65bb7520-f055-43a8-b735-1152fa2c9e04,TCGA-A6-2670,"Adenocarcinoma, NOS",male,16512,Stage IIA,0,Alive,'--,TCGA-A6-2670
+6775ce57-b4cf-425c-a898-061bb9a8a1a8,TCGA-DM-A280,Mucinous adenocarcinoma,female,25649,Stage IIA,0,Dead,236,TCGA-DM-A280
+67ba29e7-f294-4dcd-9630-ad768c22c588,TCGA-AA-3494,"Adenocarcinoma, NOS",male,20089,Stage IV,1,Alive,'--,TCGA-AA-3494
+68801d41-535f-4b38-989b-ef4fe5f00039,TCGA-A6-6653,"Adenocarcinoma, NOS",male,29996,Stage I,0,Alive,'--,TCGA-A6-6653
+69fb431f-0caf-4cdd-9085-eda5b18ed15d,TCGA-AA-A02H,"Adenocarcinoma, NOS",female,27362,Stage IV,1,Dead,61,TCGA-AA-A02H
+6a4031c6-ee88-48be-81a5-a522720edd02,TCGA-CM-6164,"Adenocarcinoma, NOS",female,16802,Stage IIA,0,Alive,'--,TCGA-CM-6164
+6baf61b6-ae5b-42f0-adc9-0d26fda231f7,TCGA-AY-4070,Not Reported,female,18807,'--,,Dead,496,TCGA-AY-4070
+6bc056f2-f06e-428f-aebc-85b780d880ed,TCGA-AG-3598,"Adenocarcinoma, NOS",male,25324,Stage IIA,0,Alive,'--,TCGA-AG-3598
+6cd8d2dd-5545-43b0-b796-ae0506d62eb8,TCGA-A6-6650,"Adenocarcinoma, NOS",female,25516,Stage IIA,0,Alive,'--,TCGA-A6-6650
+6dafce6c-b2a9-4b23-b9f8-b71e01616389,TCGA-AG-4021,Unknown,female,31015,'--,,Dead,121,TCGA-AG-4021
+6e9e0c2f-2ddb-40f1-8e8c-618119e62ec1,TCGA-AA-3488,"Adenocarcinoma, NOS",male,21519,Stage IV,1,Dead,153,TCGA-AA-3488
+6f2b5a14-569c-4084-8c67-b1a44d787897,TCGA-AA-A01G,Mucinous adenocarcinoma,male,23133,Stage IIA,0,Alive,'--,TCGA-AA-A01G
+6fa41234-9077-4d05-a295-6820f3bedf5b,TCGA-AA-A02O,"Adenocarcinoma, NOS",male,30288,Stage II,0,Alive,'--,TCGA-AA-A02O
+6fbc2b46-6762-4778-aa7e-782162c5397c,TCGA-AZ-4681,"Adenocarcinoma, NOS",female,'--,'--,,Alive,'--,TCGA-AZ-4681
+6fc5e56a-1f5e-4ff1-948e-5ef636ebb48d,TCGA-AA-3852,Mucinous adenocarcinoma,male,32203,Stage IIA,0,Dead,0,TCGA-AA-3852
+7144a65f-a63f-4b79-8fe2-cfe48696de03,TCGA-G4-6302,Mucinous adenocarcinoma,female,32872,Stage IIA,0,Dead,0,TCGA-G4-6302
+71a32fca-d48f-4ea3-8df7-69f9dda8fa91,TCGA-AF-2692,"Adenocarcinoma, NOS",female,20157,'--,,Alive,'--,TCGA-AF-2692
+72756208-a5ed-47d2-8c4c-19a8d39f7b9d,TCGA-AG-3731,"Adenocarcinoma, NOS",male,23923,Stage IV,1,Alive,'--,TCGA-AG-3731
+72802851-9340-4c5f-a90b-23b7afd7577a,TCGA-AG-4008,"Adenocarcinoma, NOS",male,23192,Stage IIA,0,Alive,'--,TCGA-AG-4008
+72e640f2-869f-4aef-8ebe-b127f3e7048a,TCGA-F5-6863,Unknown,female,26127,'--,,Dead,361,TCGA-F5-6863
+733d8b6a-ca9d-4a69-8c9c-1f88733e8b68,TCGA-AA-3970,"Adenocarcinoma, NOS",male,23741,Stage IIA,0,Alive,'--,TCGA-AA-3970
+73448b56-a6c6-4c98-a153-ab704261e073,TCGA-AA-A02W,Not Reported,female,27698,'--,,Alive,'--,TCGA-AA-A02W
+73a142e1-8ac2-4cfe-b8cf-7e9dea64f488,TCGA-AA-A02J,"Adenocarcinoma, NOS",female,25749,Stage IV,1,Dead,153,TCGA-AA-A02J
+73f9681a-f9ef-4880-bd16-93624fd117c6,TCGA-CK-4947,Not Reported,female,17001,'--,,Alive,'--,TCGA-CK-4947
+74543fa4-ce73-46e4-9c59-224e8242b4a2,TCGA-AG-A01W,"Adenocarcinoma, NOS",female,24745,Stage II,0,Alive,'--,TCGA-AG-A01W
+74a0264d-1d31-430d-9a88-e7334c8aa96c,TCGA-A6-A56B,"Adenocarcinoma, NOS",male,20903,Stage IIIB,0,Dead,1711,TCGA-A6-A56B
+750770db-53cf-4021-a8c2-5e0ddb97fef5,TCGA-AA-3994,Mucinous adenocarcinoma,male,25323,Stage IIIB,0,Alive,'--,TCGA-AA-3994
+755d3bde-76c3-45c1-8427-8e4d5d686dc1,TCGA-CK-6747,"Adenocarcinoma, NOS",female,32052,Stage IIA,0,Alive,'--,TCGA-CK-6747
+7570761b-c333-40df-ac8c-9b7f94c58ef9,TCGA-G4-6586,"Basal cell carcinoma, NOS",female,'--,'--,,Alive,'--,TCGA-G4-6586
+75c3004d-1ef4-49f9-86e0-1bb7b9553a3d,TCGA-CM-6168,"Adenocarcinoma, NOS",female,30834,Stage IIA,0,Alive,'--,TCGA-CM-6168
+75ea63a9-357b-4566-bd78-eaa67809decd,TCGA-DM-A0X9,"Adenocarcinoma, NOS",female,26217,Stage IIA,0,Alive,'--,TCGA-DM-A0X9
+764c97c9-01d3-45cb-86bd-f8a52b5468da,TCGA-AA-A02R,"Adenocarcinoma, NOS",female,30834,Stage IIA,0,Dead,670,TCGA-AA-A02R
+769880ae-34d9-405e-8ea7-33ba47cf2dd2,TCGA-AG-3909,"Adenocarcinoma, NOS",female,25537,Stage IIIB,0,Alive,'--,TCGA-AG-3909
+76e96b5a-b565-42c7-a651-34d5132e6dde,TCGA-CM-6679,"Adenocarcinoma, NOS",male,21519,Stage IIA,0,Alive,'--,TCGA-CM-6679
+77a44132-af22-4115-9fa2-78f2f74bf687,TCGA-A6-2682,"Adenocarcinoma, NOS",male,'--,Stage II,0,Dead,424,TCGA-A6-2682
+78499f63-fe28-4b99-9f0e-6002203c4596,TCGA-F5-6861,"Adenocarcinoma, NOS",female,21936,Stage IIA,0,Alive,'--,TCGA-F5-6861
+790266bc-c252-43f4-85d1-1b06ee529cf8,TCGA-A6-A566,Not Reported,female,20438,'--,,Dead,758,TCGA-A6-A566
+794131b8-f4be-4f15-b3b9-6f0b10a5a38b,TCGA-CA-6715,"Papillary adenocarcinoma, NOS",male,23075,Stage IIIB,0,Alive,'--,TCGA-CA-6715
+79d33c28-a7e2-4fca-8be1-a16fb6d68d49,TCGA-G4-6311,"Adenocarcinoma, NOS",male,29297,Stage III,0,Alive,'--,TCGA-G4-6311
+7a285463-76f4-447d-bb04-336bb5ec1009,TCGA-CL-5917,"Adenocarcinoma, NOS",female,26084,Stage IIIC,0,Alive,'--,TCGA-CL-5917
+7a481097-14a3-4916-9632-d899c25fd284,TCGA-AA-A022,"Adenocarcinoma, NOS",female,32446,Stage II,0,Alive,'--,TCGA-AA-A022
+7a6c54f1-f4e4-426b-b306-2ca3c4de12ca,TCGA-AA-3854,Mucinous adenocarcinoma,female,26022,Stage I,0,Alive,'--,TCGA-AA-3854
+7a70f061-9a6f-408e-a416-7f5295ceba3b,TCGA-CK-6751,Mucinous adenocarcinoma,female,32354,Stage I,0,Alive,'--,TCGA-CK-6751
+7ad0617e-bc4a-4869-8419-744f04d9b7a3,TCGA-AZ-6601,Not Reported,male,'--,'--,,Dead,3042,TCGA-AZ-6601
+7b47489f-c3cc-4388-b5d7-c7c02790a5f6,TCGA-AA-3956,"Adenocarcinoma, NOS",male,24045,Stage IIA,0,Alive,'--,TCGA-AA-3956
+7d8eab0a-e6c8-4449-9ebf-50c41db94a06,TCGA-A6-2681,Not Reported,female,'--,'--,,Alive,'--,TCGA-A6-2681
+7dfbc0ed-e684-4966-8b59-fb6b9e80c129,TCGA-AA-3841,"Adenocarcinoma, NOS",male,24230,Stage IIA,0,Alive,'--,TCGA-AA-3841
+7ea546ce-f48a-4d9c-96b4-a0124c692870,TCGA-CM-4752,"Adenocarcinoma, NOS",male,21519,Stage IIA,0,Alive,'--,TCGA-CM-4752
+7f6898e2-a840-4ad1-80f7-783f8b766fcc,TCGA-WS-AB45,Mucinous adenocarcinoma,female,'--,Stage IIA,0,Alive,'--,TCGA-WS-AB45
+80311cf5-7e18-4545-92ad-c4b7dd5c9677,TCGA-AA-3842,Not Reported,male,19238,'--,,Alive,'--,TCGA-AA-3842
+80809d79-92e1-4d6c-ba2e-0a9589997792,TCGA-AA-A01C,"Adenocarcinoma, NOS",male,27729,Stage IIIA,0,Alive,'--,TCGA-AA-A01C
+80e677b1-5ebe-4069-a1a5-1538ffee6642,TCGA-AA-3509,"Adenocarcinoma, NOS",female,19786,Stage II,0,Alive,'--,TCGA-AA-3509
+811f3feb-a5a9-48b1-acda-fbb23fcbcf16,TCGA-AF-A56N,"Adenocarcinoma, NOS",female,17480,Stage IIA,0,Alive,'--,TCGA-AF-A56N
+813bb368-9389-4528-9b18-387374bc912f,TCGA-DY-A1DD,"Adenocarcinoma, NOS",female,28159,Stage IIIB,0,Dead,1741,TCGA-DY-A1DD
+81555ac5-9cc2-49ae-9033-657f56243f20,TCGA-AA-3939,Not Reported,male,'--,'--,,Alive,'--,TCGA-AA-3939
+81a7184e-f9f5-4e3f-9603-5f5642386c1e,TCGA-T9-A92H,"Adenocarcinoma, NOS",male,30058,Stage IIA,0,Alive,'--,TCGA-T9-A92H
+81dac02c-6e5f-4afe-9c90-12b5a4f26594,TCGA-AG-3609,"Adenocarcinoma, NOS",female,23925,Stage IIIC,0,Alive,'--,TCGA-AG-3609
+81e7cca8-2d71-4446-9692-872c2fe68d0a,TCGA-A6-6654,"Adenocarcinoma, NOS",female,23953,Stage IIIB,0,Alive,'--,TCGA-A6-6654
+81f6b141-2195-4091-9cd3-dfb022663949,TCGA-AA-3930,"Adenocarcinoma, NOS",male,24321,Stage IV,1,Dead,61,TCGA-AA-3930
+830fd359-abd4-4c99-89e4-2d6bb9ce5637,TCGA-AF-2691,"Adenocarcinoma, NOS",female,17759,Stage I,0,Alive,'--,TCGA-AF-2691
+835c3e23-ac2b-4bc9-ac65-e3e81adecf77,TCGA-AA-3941,"Adenocarcinoma, NOS",female,31015,Stage IVA,1,Alive,'--,TCGA-AA-3941
+835cbd02-4dbb-4273-9704-4b5d272493d7,TCGA-AH-6544,"Adenocarcinoma, NOS",male,21977,'--,1,Alive,'--,TCGA-AH-6544
+8368d745-c74d-4236-ba75-16ca7aaeb3ca,TCGA-AA-3502,"Adenocarcinoma, NOS",male,26724,Stage I,0,Alive,'--,TCGA-AA-3502
+848a5838-8a06-45a9-a3d6-e4ed47b824ab,TCGA-AG-A01L,"Adenocarcinoma, NOS",male,21369,Stage IIIB,0,Alive,'--,TCGA-AG-A01L
+849031de-ac8a-4012-9362-d192512997f1,TCGA-AZ-6605,"Adenocarcinoma, NOS",male,28485,Stage IIIB,0,Dead,159,TCGA-AZ-6605
+849442d3-eb82-416e-9d36-2fc15dfac67a,TCGA-DM-A1D4,Not Reported,male,31323,'--,,Dead,2821,TCGA-DM-A1D4
+84959e50-17f5-4f2b-8e0c-5ebb139d2c3a,TCGA-QG-A5Z2,"Adenocarcinoma, NOS",male,22367,Stage I,0,Alive,'--,TCGA-QG-A5Z2
+84e34cf2-b3bb-4a1a-8fb7-6c2c604c4008,TCGA-AA-A01S,"Adenocarcinoma, NOS",female,17257,Stage III,0,Alive,'--,TCGA-AA-A01S
+856a490c-c6da-48fe-88b5-9fde0f481365,TCGA-AG-3728,"Adenocarcinoma, NOS",male,26906,Stage IIIB,0,Alive,'--,TCGA-AG-3728
+857a5889-19e7-4208-8362-f1377c408037,TCGA-A6-A567,"Adenocarcinoma, NOS",male,21105,'--,,Dead,1881,TCGA-A6-A567
+85947797-54b8-44fb-910b-5cd689542994,TCGA-F5-6571,"Adenocarcinoma, NOS",female,22666,Stage IIA,0,Alive,'--,TCGA-F5-6571
+85a57cfe-f1c9-44d9-8b50-022c0d3438d1,TCGA-AZ-5403,"Adenocarcinoma, NOS",male,15983,Stage II,0,Dead,1910,TCGA-AZ-5403
+85bdc1ac-a1a4-46c2-bc2d-e5fabf5c89e9,TCGA-DM-A28E,"Adenocarcinoma, NOS",female,26602,Stage IIA,0,Alive,'--,TCGA-DM-A28E
+85e95dda-6198-464a-9187-fd0832bebb72,TCGA-AA-3492,"Adenocarcinoma, NOS",female,32871,Stage II,0,Dead,1,TCGA-AA-3492
+8632579e-d318-4dab-9994-d3945afc42ab,TCGA-A6-3809,Mucinous adenocarcinoma,female,26274,Stage IIB,0,Alive,'--,TCGA-A6-3809
+866de12b-e4df-4f19-b62e-e3fd85d4ec08,TCGA-AG-4005,"Adenocarcinoma, NOS",male,23407,Stage IV,1,Alive,'--,TCGA-AG-4005
+86a9e44f-728e-48e4-9e1b-682b023f7c0a,TCGA-AA-3967,"Adenocarcinoma, NOS",male,28216,Stage IIIB,0,Alive,'--,TCGA-AA-3967
+86d18004-9478-4e46-83b4-4fbe445ccb70,TCGA-AA-A01I,"Adenocarcinoma, NOS",male,27759,Stage I,0,Alive,'--,TCGA-AA-A01I
+88832340-46ad-449c-8f81-6a8e5b495510,TCGA-A6-6780,Mucinous adenocarcinoma,male,27250,Stage IIA,0,Alive,'--,TCGA-A6-6780
+88e64f45-adc4-4223-9838-4d7d45b8f0c0,TCGA-AA-3526,"Adenocarcinoma, NOS",male,21123,Stage I,0,Alive,'--,TCGA-AA-3526
+89a6384e-1cea-440b-9f17-d57cb0805174,TCGA-A6-2676,"Adenocarcinoma, NOS",female,27403,Stage IIB,0,Dead,1305,TCGA-A6-2676
+89e4905e-31bb-4125-9262-93f600aed7e5,TCGA-DY-A1DG,Unknown,male,27988,'--,,Dead,1566,TCGA-DY-A1DG
+8a84b03a-e37e-4827-98f0-4d480ec31037,TCGA-CK-6748,Mucinous adenocarcinoma,female,16529,Stage IV,1,Alive,'--,TCGA-CK-6748
+8ad1c98b-5395-477e-87a8-19dff3a59c26,TCGA-AG-A02N,"Adenocarcinoma, NOS",male,24687,Stage II,0,Alive,'--,TCGA-AG-A02N
+8b4383b1-a684-41ea-bfb0-c84e6f5b287d,TCGA-F5-6464,"Adenocarcinoma, NOS",female,28168,Stage IIIC,0,Dead,303,TCGA-F5-6464
+8c043ecd-2265-411f-bc3b-dc341cf56ac2,TCGA-CM-6163,"Adenocarcinoma, NOS",male,27150,Stage I,0,Alive,'--,TCGA-CM-6163
+8c0894fb-5e78-40ae-be0b-329ca30f758a,TCGA-DM-A1HB,Mucinous adenocarcinoma,male,27708,Stage IIIB,0,Alive,'--,TCGA-DM-A1HB
+8c7ccdb0-7653-4a8d-86b6-de39afc40765,TCGA-AG-3887,Mucinous adenocarcinoma,male,24960,Stage IIA,0,Alive,'--,TCGA-AG-3887
+8d0fa506-3f51-4108-8427-7dabf270bcd4,TCGA-SS-A7HO,Not Reported,female,18217,'--,,Alive,'--,TCGA-SS-A7HO
+8e00e7e7-ffaf-44f0-91a7-172671f18e08,TCGA-AG-4007,"Adenocarcinoma, NOS",male,31776,Stage IV,1,Alive,'--,TCGA-AG-4007
+8e87ddca-f43e-4c6f-9d5b-430b666a7f6c,TCGA-CM-6169,"Adenocarcinoma, NOS",male,24564,Stage IIA,0,Alive,'--,TCGA-CM-6169
+8feb0e8f-d09b-437d-8651-0cdecfe776bf,TCGA-F5-6814,"Adenocarcinoma, NOS",male,20828,Stage IIA,0,Alive,'--,TCGA-F5-6814
+9084b672-8e65-4b7f-a256-32fd35aa8ab5,TCGA-AG-4022,"Adenocarcinoma, NOS",female,21823,Stage II,0,Alive,'--,TCGA-AG-4022
+912b61a1-6a5b-451c-b753-9c3dac03e8cb,TCGA-AA-3543,Mucinous adenocarcinoma,male,30772,Stage I,0,Alive,'--,TCGA-AA-3543
+92554413-9ebc-4354-8e1b-9682f3a031d9,TCGA-4N-A93T,"Adenocarcinoma, NOS",male,24523,Stage IIIB,0,Alive,'--,TCGA-4N-A93T
+92c043b6-8d53-4c1c-808a-c4be5e2926e6,TCGA-DM-A1D8,"Adenocarcinoma, NOS",female,18311,'--,,Dead,383,TCGA-DM-A1D8
+92c65e5a-3f07-49d9-ab69-46a0eb86ae88,TCGA-AG-3882,"Adenocarcinoma, NOS",female,24198,Stage I,0,Alive,'--,TCGA-AG-3882
+93690a96-421c-4c59-85ba-fa6dd538c721,TCGA-G4-6588,"Squamous cell carcinoma, NOS",female,'--,'--,,Alive,'--,TCGA-G4-6588
+9382987c-b5b3-48fe-8194-4d83fe340cd0,TCGA-F4-6807,"Adenocarcinoma, NOS",female,18690,Stage IIIC,0,Alive,'--,TCGA-F4-6807
+93ca8937-97c0-4f6e-bdec-66d32f2a7b3d,TCGA-AA-A029,"Adenocarcinoma, NOS",male,24686,Stage II,0,Alive,'--,TCGA-AA-A029
+93cd5d07-e0d3-40f8-ae7f-beadb1efb7c1,TCGA-AA-3972,Not Reported,male,'--,'--,0,Alive,'--,TCGA-AA-3972
+93edb105-5dc9-4a4a-9fca-c91f0161fcc7,TCGA-AA-3511,Not Reported,male,23466,'--,,Alive,'--,TCGA-AA-3511
+94067eb7-98b7-4975-bab1-c09e1b454a25,TCGA-D5-5541,"Adenocarcinoma, NOS",male,23109,Stage IIIB,0,Alive,'--,TCGA-D5-5541
+955464c8-9c62-430c-87b8-107db5c980a8,TCGA-AD-6889,Not Reported,male,'--,'--,,Dead,2532,TCGA-AD-6889
+95a54459-3fac-42d5-8ec1-ed66d971d64d,TCGA-CA-6716,"Papillary adenocarcinoma, NOS",male,23943,Stage IIA,0,Alive,'--,TCGA-CA-6716
+95d4f0c4-5997-4ffb-b876-0ddfeee972bb,TCGA-A6-4105,Not Reported,male,29461,'--,,Dead,442,TCGA-A6-4105
+960d278c-c87d-42dc-ad28-42e010d8f0f1,TCGA-A6-5662,Not Reported,male,17534,'--,,Alive,'--,TCGA-A6-5662
+96ac1f4b-79b0-4517-8caf-fc05abcaaf4f,TCGA-A6-6652,"Adenocarcinoma, NOS",male,21638,Stage IVA,1,Alive,'--,TCGA-A6-6652
+96e013d9-8e89-46a7-8d07-bae95af36708,TCGA-CM-5860,"Adenocarcinoma, NOS",male,16344,Stage IIA,0,Alive,'--,TCGA-CM-5860
+9743d31a-ea8f-4847-87d2-ebf77cc5983d,TCGA-CM-5861,"Adenocarcinoma, NOS",female,23588,'--,,Alive,'--,TCGA-CM-5861
+97f6c8d3-09a0-4128-8f10-41e736648a5f,TCGA-AA-A01R,Mucinous adenocarcinoma,male,17289,Stage III,0,Alive,'--,TCGA-AA-A01R
+98d45099-feae-4dad-aa38-ec03fed6d999,TCGA-A6-5659,"Adenocarcinoma, NOS",male,30028,Stage I,0,Alive,'--,TCGA-A6-5659
+99c532b0-6b42-4925-a344-fc7262c415ee,TCGA-DM-A285,Mucinous adenocarcinoma,female,26021,Stage IV,1,Dead,179,TCGA-DM-A285
+99d2c035-06a2-4bc3-8ff9-db875d232c93,TCGA-F5-6813,"Adenocarcinoma, NOS",male,25651,Stage IIIC,0,Dead,598,TCGA-F5-6813
+9af35239-ffb9-4d4f-889e-f743da271eef,TCGA-AG-3896,"Adenocarcinoma, NOS",female,31046,Stage I,0,Alive,'--,TCGA-AG-3896
+9b2c325c-1f03-43c7-ad5c-b49c6d205635,TCGA-DM-A28A,"Adenocarcinoma, NOS",male,28833,Stage IIIC,0,Dead,805,TCGA-DM-A28A
+9c34830b-4d7f-4b41-9659-fbfc36c145c9,TCGA-D5-6529,Not Reported,male,25780,'--,,Alive,'--,TCGA-D5-6529
+9c45eaec-d854-4f51-80a3-2d80d6b4aebc,TCGA-QG-A5Z1,"Adenocarcinoma, NOS",male,26220,Stage IIIB,0,Dead,256,TCGA-QG-A5Z1
+9c7b5e85-5579-4d0f-a7ea-b9d081ac0037,TCGA-AG-A016,"Adenocarcinoma, NOS",male,20178,Stage IV,1,Alive,'--,TCGA-AG-A016
+9cdca5d8-ea77-4df9-b2ba-0d5e8ec37bcd,TCGA-CA-6719,"Adenocarcinoma, NOS",male,28343,Stage IIA,0,Alive,'--,TCGA-CA-6719
+9d68516e-7e5c-403e-8aca-ea1abe0d6014,TCGA-NH-A50U,Mucinous adenocarcinoma,male,15450,Stage IVA,1,Dead,334,TCGA-NH-A50U
+9d7e0672-0a9e-4dbf-a583-80f4eb086ec6,TCGA-AG-A025,"Adenocarcinoma, NOS",female,22952,Stage I,0,Alive,'--,TCGA-AG-A025
+9d8c4693-8e36-473b-bb34-a7cdc04dd223,TCGA-CM-6170,"Adenocarcinoma, NOS",female,26663,Stage I,0,Alive,'--,TCGA-CM-6170
+9dcb4e16-b582-4cd0-87cf-04f480ec2cec,TCGA-AA-3542,"Adenocarcinoma, NOS",male,25324,Stage IIIC,0,Alive,'--,TCGA-AA-3542
+9df9af6b-00b0-47af-aac7-b52dac399ba5,TCGA-DY-A0XA,"Adenocarcinoma, NOS",female,21115,Stage IIA,0,Alive,'--,TCGA-DY-A0XA
+9f4574ec-a58a-4410-8735-c5e5bc4ca7e0,TCGA-AG-A00H,Not Reported,male,'--,'--,,Alive,'--,TCGA-AG-A00H
+9f45a227-1fd5-478c-a194-4a5c61b68cc3,TCGA-QG-A5YW,"Adenocarcinoma, NOS",female,20391,Stage IIIC,0,Alive,'--,TCGA-QG-A5YW
+9fd08502-355b-4f5a-a25c-73ec7184f6d3,TCGA-F4-6459,"Adenocarcinoma, NOS",female,22574,Stage IIIB,0,Dead,262,TCGA-F4-6459
+a06c09a8-0951-49f4-a765-5147bbcae109,TCGA-AA-3664,"Adenocarcinoma, NOS",female,27363,Stage II,0,Alive,'--,TCGA-AA-3664
+a117ace8-ac5a-48d8-8aee-3024d6f0f873,TCGA-D5-6538,"Adenocarcinoma, NOS",female,29194,Stage IIIB,0,Alive,'--,TCGA-D5-6538
+a123dc45-e427-461e-8d60-c51307aa498c,TCGA-D5-6535,"Adenocarcinoma, NOS",female,29278,Stage IIIB,0,Alive,'--,TCGA-D5-6535
+a18acb1d-403a-4802-8efb-9085e006f4c5,TCGA-AG-A01J,"Adenocarcinoma, NOS",female,21581,Stage IIA,0,Alive,'--,TCGA-AG-A01J
+a19cd9f8-482b-4b70-b7d7-06d6bb1b0260,TCGA-CM-5862,"Adenocarcinoma, NOS",male,29493,Stage IVA,1,Dead,153,TCGA-CM-5862
+a2b6246d-2b80-49c5-968b-694b4e8171dc,TCGA-AG-3591,"Adenocarcinoma, NOS",female,24167,Stage IIA,0,Alive,'--,TCGA-AG-3591
+a2e47568-eb43-4c89-ad7c-dfbaa2ba7e27,TCGA-CL-4957,"Adenocarcinoma, NOS",female,29081,'--,0,Dead,'--,TCGA-CL-4957
+a424bfe7-5518-4c80-83c8-709a34320bc7,TCGA-AG-A02X,"Adenocarcinoma, NOS",male,28399,Stage I,0,Alive,'--,TCGA-AG-A02X
+a435fdf4-a89a-499e-9006-cbb5693eab26,TCGA-AA-A02Y,"Adenocarcinoma, NOS",male,26724,Stage I,0,Alive,'--,TCGA-AA-A02Y
+a46be4e1-260c-4ce9-8b0f-1326d90c697f,TCGA-BM-6198,"Adenocarcinoma, NOS",male,'--,'--,,Alive,'--,TCGA-BM-6198
+a4faf514-50af-43ed-b294-350ee0756250,TCGA-AF-3912,"Adenocarcinoma, NOS",not reported,'--,'--,,Not Reported,'--,TCGA-AF-3912
+a512701f-88bb-4b05-8c94-fd285b9dd13e,TCGA-AA-3666,"Adenocarcinoma, NOS",male,25020,Stage III,0,Dead,61,TCGA-AA-3666
+a54b322b-80d3-435c-8d14-25841b741f6c,TCGA-5M-AATE,"Adenocarcinoma, NOS",male,27870,Stage IIA,0,Alive,'--,TCGA-5M-AATE
+a56d528b-238a-4556-92c8-7645304a2da0,TCGA-AA-3558,"Adenocarcinoma, NOS",male,25752,Stage I,0,Alive,'--,TCGA-AA-3558
+a56f6562-d2af-47b9-bf81-94b3b4893173,TCGA-DM-A0XD,"Adenocarcinoma, NOS",male,24583,'--,,Dead,743,TCGA-DM-A0XD
+a5e14add-1552-4606-9ffe-3a03bcf76640,TCGA-4T-AA8H,Mucinous adenocarcinoma,female,15494,Stage IIA,0,Alive,'--,TCGA-4T-AA8H
+a6f98ee5-9638-4ebe-804b-fba54aea9f90,TCGA-CK-6746,"Adenocarcinoma, NOS",female,30957,Stage IIB,0,Alive,'--,TCGA-CK-6746
+a72dd578-3a6f-4807-a843-4a942500944e,TCGA-AA-A01K,"Adenocarcinoma, NOS",female,27029,Stage IIIC,0,Alive,'--,TCGA-AA-A01K
+a744d4a3-f99a-46ce-9b3f-8ee8835e67ec,TCGA-AG-3605,"Adenocarcinoma, NOS",female,31078,Stage IV,1,Alive,'--,TCGA-AG-3605
+a782f174-241d-42c6-9bc4-61cc39f8b397,TCGA-D5-6927,"Adenocarcinoma, NOS",male,12737,Stage IIA,0,Alive,'--,TCGA-D5-6927
+a83923fd-276c-4526-9922-5ef741f551fd,TCGA-AG-3732,"Adenocarcinoma, NOS",female,28521,Stage I,0,Alive,'--,TCGA-AG-3732
+a85e8208-a6f5-4e91-8f35-ef574f4273fc,TCGA-CM-6677,"Adenocarcinoma, NOS",female,27575,Stage IIA,0,Alive,'--,TCGA-CM-6677
+a8a5553c-bfe1-4d5f-aacc-5549ded3f91f,TCGA-EI-6513,Adenocarcinoma in tubulovillous adenoma,male,21776,Stage IIIB,0,Alive,'--,TCGA-EI-6513
+a8b4284d-cbbb-43e3-897b-d04af4bfba74,TCGA-AZ-6598,"Adenocarcinoma, NOS",female,28182,Stage II,0,Dead,1503,TCGA-AZ-6598
+a8b974f4-aabf-484d-bfa2-a286b39681e0,TCGA-AG-3586,Mucinous adenocarcinoma,female,26542,Stage III,0,Alive,'--,TCGA-AG-3586
+a91f7a8c-e0fe-403a-9ef0-f7679b2761cc,TCGA-AG-A01Y,"Adenocarcinoma, NOS",female,18112,Stage II,0,Alive,'--,TCGA-AG-A01Y
+a94e1279-a975-480a-93e9-7b1ff05cbcbf,TCGA-3L-AA1B,"Adenocarcinoma, NOS",female,22379,Stage I,0,Alive,'--,TCGA-3L-AA1B
+a9cb21d1-4c4a-4f30-ad4d-c54bed26f187,TCGA-AA-3975,"Adenocarcinoma, NOS",male,29310,Stage I,0,Alive,'--,TCGA-AA-3975
+a9e4b6db-8b4b-4345-a4a1-d63175eb0174,TCGA-5M-AATA,Not Reported,not reported,'--,'--,,Not Reported,'--,TCGA-5M-AATA
+aa85d9e8-caa6-422c-95ce-780e4ac2a5e4,TCGA-AA-3532,"Adenocarcinoma, NOS",male,23133,Stage IIA,0,Alive,'--,TCGA-AA-3532
+aa909ffb-03e1-4e3f-8888-2212b23d90b7,TCGA-AA-3696,"Adenocarcinoma, NOS",female,27667,Stage IV,1,Dead,153,TCGA-AA-3696
+ab9cc98a-86ae-4913-bcb2-cc3aeff8abb1,TCGA-G4-6298,"Adenocarcinoma, NOS",male,32872,Stage IIIB,0,Dead,0,TCGA-G4-6298
+abb0d53f-f74e-45dc-8fbb-40863016f3c6,TCGA-AA-3681,"Adenocarcinoma, NOS",female,28399,Stage III,0,Alive,'--,TCGA-AA-3681
+abe658e0-33f9-4f57-849b-dec4d20964d6,TCGA-G4-6314,"Adenocarcinoma, NOS",female,27958,Stage IV,1,Alive,'--,TCGA-G4-6314
+ac13d568-f79e-4ba7-b7bf-18e4354e0920,TCGA-D5-6532,"Adenocarcinoma, NOS",male,22344,Stage IIA,0,Alive,'--,TCGA-D5-6532
+ac6a3df9-41b1-4e5a-a15e-f44481384c23,TCGA-AA-3860,"Adenocarcinoma, NOS",female,19449,Stage IIIB,0,Alive,'--,TCGA-AA-3860
+acccb105-6439-4b30-a0b9-bb94c7873d4a,TCGA-CI-6623,"Adenocarcinoma, NOS",male,16177,Stage I,0,Alive,'--,TCGA-CI-6623
+acd51808-870c-4684-a2de-aa0b058729e1,TCGA-AY-A69D,"Adenocarcinoma, NOS",female,20299,Stage IIA,0,Alive,'--,TCGA-AY-A69D
+ad440651-a2de-4bb1-90da-1e5e8975ab59,TCGA-AA-3521,Not Reported,male,'--,'--,,Alive,'--,TCGA-AA-3521
+add567b7-29ef-4122-8a54-57d36f735e78,TCGA-AG-3893,"Adenocarcinoma, NOS",male,27272,Stage IIIB,0,Alive,'--,TCGA-AG-3893
+ae6b315f-3f78-4695-adfa-48b0bbab2c89,TCGA-D5-5537,Not Reported,male,31227,'--,,Dead,1381,TCGA-D5-5537
+aec0c661-afac-4f7a-8c31-154d743f2499,TCGA-DM-A28H,"Adenocarcinoma, NOS",male,18809,'--,,Alive,'--,TCGA-DM-A28H
+aedde4a5-6520-40b9-9721-c9b826490b7a,TCGA-CM-6166,"Adenocarcinoma, NOS",female,17807,Stage I,0,Alive,'--,TCGA-CM-6166
+aee20b98-df51-4ead-86cc-0d5f60a74b90,TCGA-AZ-6600,"Adenocarcinoma, NOS",male,23581,Stage IV,1,Dead,368,TCGA-AZ-6600
+af06cde0-c69a-4bb1-a234-8023b95e4835,TCGA-AA-A017,"Adenocarcinoma, NOS",female,21032,Stage IIA,0,Alive,'--,TCGA-AA-A017
+af17788e-a562-43aa-bd36-fd3e031f483c,TCGA-AA-3979,Not Reported,male,'--,'--,,Alive,'--,TCGA-AA-3979
+af3a0634-4292-45bd-b948-6b6bd2d58090,TCGA-AA-A00Z,Not Reported,male,'--,'--,,Alive,'--,TCGA-AA-A00Z
+b079a153-62f9-4026-a2f8-a1390168bbb9,TCGA-A6-4107,"Adenocarcinoma, NOS",female,21064,Stage IIIB,0,Alive,'--,TCGA-A6-4107
+b08b5f49-9434-4653-9772-097ec29b2ca3,TCGA-D5-6540,Mucinous adenocarcinoma,male,24282,Stage I,0,Alive,'--,TCGA-D5-6540
+b107565b-7558-4745-952b-689178367e1c,TCGA-AA-3525,"Adenocarcinoma, NOS",male,32871,Stage IIIB,0,Alive,'--,TCGA-AA-3525
+b16bb717-d1cf-4237-a554-43f3995b82f2,TCGA-AA-3815,"Adenocarcinoma, NOS",female,23922,Stage IIA,0,Alive,'--,TCGA-AA-3815
+b1a787b6-8e94-4b1b-b063-3338c80eef78,TCGA-DY-A1DF,"Adenocarcinoma, NOS",female,26763,Stage IIIC,0,Dead,734,TCGA-DY-A1DF
+b26143d3-d458-4d5c-8446-fd2f05707352,TCGA-CI-6620,Unknown,female,15412,'--,,Alive,'--,TCGA-CI-6620
+b2b125c7-8993-4424-b390-048ccccc9d08,TCGA-EI-6884,Tubular adenocarcinoma,male,25995,Stage IIIA,0,Alive,'--,TCGA-EI-6884
+b2c48624-a483-4b1d-9155-c0c80ed2f7a0,TCGA-AG-3584,"Adenocarcinoma, NOS",male,22189,Stage IV,1,Dead,730,TCGA-AG-3584
+b2db7f47-540f-4bd3-81bb-d686b0225201,TCGA-EI-7004,Mucinous adenocarcinoma,female,13566,'--,0,Alive,'--,TCGA-EI-7004
+b3c267aa-345d-40d8-a8da-f9f08c64f9c7,TCGA-D5-6923,"Adenocarcinoma, NOS",male,21118,Stage I,0,Alive,'--,TCGA-D5-6923
+b3fea9bb-53f9-4ddb-922d-b570562d7a7d,TCGA-G4-6322,Mucinous adenocarcinoma,male,23825,Stage IIIB,0,Alive,'--,TCGA-G4-6322
+b4c3cf95-a27c-4bcf-9321-38723473e83b,TCGA-AA-3855,"Adenocarcinoma, NOS",male,26541,Stage I,0,Alive,'--,TCGA-AA-3855
+b54865b6-824e-4163-b759-21a6eacc98ce,TCGA-A6-6781,Mucinous adenocarcinoma,male,15842,Stage IIIC,0,Alive,'--,TCGA-A6-6781
+b612d491-7442-4119-a53c-5ebcc35c31f4,TCGA-A6-2672,"Adenocarcinoma, NOS",female,30237,Stage IIIB,0,Alive,'--,TCGA-A6-2672
+b6202d8d-dd3c-4fa2-9242-6e55759846af,TCGA-CM-5344,"Adenocarcinoma, NOS",female,14426,Stage IIIB,0,Alive,'--,TCGA-CM-5344
+b6ba7313-8e91-4c39-8629-db3e96f4c556,TCGA-AG-3881,Mucinous adenocarcinoma,female,30467,Stage IIA,0,Alive,'--,TCGA-AG-3881
+b6e6e715-ccc5-474f-860a-a10bf1962936,TCGA-AG-3883,"Adenocarcinoma, NOS",male,25415,Stage I,0,Alive,'--,TCGA-AG-3883
+b718134c-5231-4f29-a423-7bad17c93fc5,TCGA-AZ-5407,"Adenocarcinoma, NOS",female,18820,Stage I,0,Alive,'--,TCGA-AZ-5407
+b728e6e8-a0e4-496b-904c-6f07c12e901f,TCGA-A6-3810,"Adenocarcinoma, NOS",male,22999,Stage IIA,0,Alive,'--,TCGA-A6-3810
+b76d1de7-6447-474d-bf67-77e0bb2da73a,TCGA-AD-6901,"Adenocarcinoma, NOS",male,28579,'--,,Dead,682,TCGA-AD-6901
+b823d6e5-54b0-43d3-95e2-9be33dc6f734,TCGA-DM-A0XF,"Adenocarcinoma, NOS",female,25032,Stage IIIC,0,Dead,1162,TCGA-DM-A0XF
+b89267a4-0e6b-401e-85b0-e66775858aa6,TCGA-CM-5348,"Adenocarcinoma, NOS",male,26543,Stage IIIB,0,Alive,'--,TCGA-CM-5348
+b95720b1-aa00-4c6a-b202-3350d035829f,TCGA-AA-3489,"Adenocarcinoma, NOS",male,27606,Stage II,0,Dead,214,TCGA-AA-3489
+ba49b428-246d-46d2-b549-39a5fc8f7003,TCGA-AA-3554,"Adenocarcinoma, NOS",female,22799,Stage IIA,0,Alive,'--,TCGA-AA-3554
+ba902e78-752f-4248-9a59-ea08475c961b,TCGA-AG-3601,"Adenocarcinoma, NOS",male,24837,Stage IIIB,0,Alive,'--,TCGA-AG-3601
+bab21810-f51b-421e-a87f-1f1136cbc77a,TCGA-F4-6806,"Adenocarcinoma, NOS",female,21625,Stage I,0,Alive,'--,TCGA-F4-6806
+bc02f801-081b-489b-87cb-d275c70299d5,TCGA-AA-3845,"Adenocarcinoma, NOS",female,31593,Stage IIA,0,Dead,0,TCGA-AA-3845
+bc42fe2d-1a33-428d-a601-b1871f4c8d9b,TCGA-AA-3966,Mucinous adenocarcinoma,female,32537,Stage IIA,0,Alive,'--,TCGA-AA-3966
+bcb21cdd-2f57-4df0-bbbe-a74fa5a654d6,TCGA-EI-6506,Tubular adenocarcinoma,female,28587,Stage IIA,0,Alive,'--,TCGA-EI-6506
+bce3ce45-4fb3-4d8e-9ec7-d24427c2ba4d,TCGA-AA-3692,Not Reported,female,17563,'--,,Dead,1095,TCGA-AA-3692
+bce5579c-08c6-48e9-853e-fac85ba8cbea,TCGA-AA-3831,"Adenocarcinoma, NOS",male,24411,Stage IIA,0,Alive,'--,TCGA-AA-3831
+bcfe4fe9-d090-49f9-85a7-2b472e0f7453,TCGA-AG-3902,"Adenocarcinoma, NOS",male,22492,Stage IIA,0,Alive,'--,TCGA-AG-3902
+bd0ddc1e-ba3b-4719-a2fa-776f0475dd8a,TCGA-AH-6643,"Adenocarcinoma, NOS",male,18273,Stage IIIC,0,Dead,1314,TCGA-AH-6643
+bd6877a8-06b4-4b95-bed2-15c524068f21,TCGA-CI-6622,"Adenocarcinoma, NOS",male,27336,Stage IIB,0,Alive,'--,TCGA-CI-6622
+bd818ae4-b31a-4616-9303-b8aee56a848f,TCGA-AF-A56K,"Adenocarcinoma, NOS",male,21744,'--,,Alive,'--,TCGA-AF-A56K
+be85f845-b281-467c-8b97-bed7b7fdff64,TCGA-D5-6924,"Adenocarcinoma, NOS",male,24964,Stage IIA,0,Alive,'--,TCGA-D5-6924
+beb63625-d9bf-4ccd-bc53-635b53d24240,TCGA-AA-3870,Not Reported,female,'--,'--,,Alive,'--,TCGA-AA-3870
+bf65c2cd-8348-488f-8485-9196ba42d17e,TCGA-DC-4749,"Adenocarcinoma, NOS",male,21092,Stage I,0,Alive,'--,TCGA-DC-4749
+bf69a4ce-ec7e-4752-a86d-dcc80e3c9a57,TCGA-AZ-4615,Not Reported,male,31596,'--,,Alive,'--,TCGA-AZ-4615
+bfb07784-693b-4c25-874e-4ad6e04a5d46,TCGA-AA-3529,"Adenocarcinoma, NOS",female,28609,Stage IIIC,0,Dead,0,TCGA-AA-3529
+c085da47-d634-491a-80ea-514e5a231f70,TCGA-CK-5912,Not Reported,male,'--,'--,,Dead,1493,TCGA-CK-5912
+c0b8c55c-b993-481d-aeea-9ebfa64ee20e,TCGA-CM-4746,"Adenocarcinoma, NOS",male,22403,Stage I,0,Alive,'--,TCGA-CM-4746
+c113808a-773f-4179-82d6-9083518404b5,TCGA-AD-6548,"Adenocarcinoma, NOS",female,29758,Stage I,0,Alive,'--,TCGA-AD-6548
+c1e141af-bdd1-4176-8c0e-cf1ab0c1d9d3,TCGA-AA-3952,Not Reported,male,'--,'--,,Dead,61,TCGA-AA-3952
+c21d2c68-920f-4526-b754-286579c049f3,TCGA-AA-3663,"Adenocarcinoma, NOS",male,15675,Stage II,0,Alive,'--,TCGA-AA-3663
+c2395f04-e248-4091-855d-802b1b871f29,TCGA-DY-A1H8,"Adenocarcinoma, NOS",female,28459,Stage IIIA,0,Dead,992,TCGA-DY-A1H8
+c293a148-a88c-4fb3-b2f4-e64e918044f9,TCGA-CK-4950,Mucinous adenocarcinoma,female,24944,Stage IIIB,0,Alive,'--,TCGA-CK-4950
+c2ea7b58-cabd-407e-98ce-6cbf9e4d93e1,TCGA-G5-6235,"Adenocarcinoma, NOS",male,26348,Stage IIIB,0,Alive,'--,TCGA-G5-6235
+c3760fb2-3b8a-4251-a189-21d56fba5017,TCGA-AG-3608,"Adenocarcinoma, NOS",female,29008,Stage IIA,0,Alive,'--,TCGA-AG-3608
+c3f0608b-d493-4c74-930a-d7998a48a659,TCGA-EI-6507,Mucinous adenocarcinoma,male,22176,Stage IIA,0,Alive,'--,TCGA-EI-6507
+c46971a1-cbac-425d-bac2-f4142c92522e,TCGA-AA-3672,"Adenocarcinoma, NOS",female,32872,Stage III,0,Alive,'--,TCGA-AA-3672
+c48e2ce0-3806-4675-92f3-d38ff67c5efa,TCGA-DM-A28M,"Adenocarcinoma, NOS",male,23043,Stage IIA,0,Alive,'--,TCGA-DM-A28M
+c4d74653-d26b-4e51-aee0-82ee3d42f883,TCGA-AA-3517,"Adenocarcinoma, NOS",male,22099,Stage IIA,0,Alive,'--,TCGA-AA-3517
+c594196e-49ef-4195-a6b6-4ef4a1d9ec15,TCGA-AA-3538,"Adenocarcinoma, NOS",female,19752,Stage I,0,Alive,'--,TCGA-AA-3538
+c59d90a6-9cda-426d-b8ea-41f0a87033d5,TCGA-AZ-4323,"Adenocarcinoma, NOS",male,13755,Stage IV,1,Dead,43,TCGA-AZ-4323
+c5c4a0a5-900d-483d-9282-475654d63265,TCGA-AA-3518,"Adenocarcinoma, NOS",female,29769,Stage IIA,0,Alive,'--,TCGA-AA-3518
+c616f95f-4ea1-4019-8c17-041878085c88,TCGA-AA-3678,"Adenocarcinoma, NOS",female,22219,Stage III,0,Alive,'--,TCGA-AA-3678
+c658f35d-ceeb-4189-8e3d-03e3b9706667,TCGA-CK-5915,"Adenocarcinoma, NOS",male,23040,Stage I,0,Alive,'--,TCGA-CK-5915
+c69dec57-7a84-481b-bcfe-61a771d0a9d1,TCGA-AG-3602,"Adenocarcinoma, NOS",female,24350,Stage IIIC,0,Alive,'--,TCGA-AG-3602
+c6ed47f4-358b-4f06-b5cd-cdf1d5c47b43,TCGA-F4-6704,Mucinous adenocarcinoma,male,21949,Stage IIIC,0,Alive,'--,TCGA-F4-6704
+c6f6c032-5d4e-4028-aed0-24a587620354,TCGA-AY-A8YK,"Adenocarcinoma, NOS",male,16140,Stage IVA,1,Alive,'--,TCGA-AY-A8YK
+c7162d11-4bdc-41cd-a964-46fc416829db,TCGA-AH-6547,"Adenocarcinoma, NOS",female,29030,'--,,Dead,76,TCGA-AH-6547
+c777a777-373a-4773-9566-6c373261f00a,TCGA-CM-4750,"Adenocarcinoma, NOS",female,12478,Stage IIIA,0,Alive,'--,TCGA-CM-4750
+c7c5348f-5708-45bf-b40e-1bf7c9348f60,TCGA-A6-6142,Not Reported,female,21139,'--,,Alive,'--,TCGA-A6-6142
+c7e09161-60d6-4dff-a840-7cec3bb7a30a,TCGA-AG-A00Y,Unknown,male,24960,'--,,Alive,'--,TCGA-AG-A00Y
+c82bbe23-0264-45a7-b1a6-82b4654108c8,TCGA-AA-3864,"Adenocarcinoma, NOS",male,26237,Stage II,0,Alive,'--,TCGA-AA-3864
+c83d38fc-e011-4f75-a100-96513611f3e9,TCGA-QG-A5YV,"Adenocarcinoma, NOS",female,23499,Stage IIIC,0,Alive,'--,TCGA-QG-A5YV
+c8d6fe73-3504-42a5-9723-e1916fba8208,TCGA-AZ-6606,"Adenocarcinoma, NOS",male,29704,Stage IV,1,Dead,357,TCGA-AZ-6606
+c8d7eb0f-2502-4277-a8ef-435b08f3c863,TCGA-CM-4743,"Adenocarcinoma, NOS",male,25291,Stage IIA,0,Alive,'--,TCGA-CM-4743
+c8de215d-53a4-4e6c-be58-5887a8094815,TCGA-AD-6965,Not Reported,male,23501,'--,,Alive,'--,TCGA-AD-6965
+c8fd1040-82a2-4cda-ac49-c2f82b20cbab,TCGA-AF-A56L,"Adenocarcinoma, NOS",female,17734,Stage IIIC,0,Alive,'--,TCGA-AF-A56L
+c9632a8b-dcfe-4480-a8ad-482f55b8cfa2,TCGA-AG-3587,Unknown,male,25291,'--,,Alive,'--,TCGA-AG-3587
+c9e829d9-cd08-41a9-a5a4-34f2d7d619c7,TCGA-AA-A01Z,"Adenocarcinoma, NOS",male,24990,Stage II,0,Alive,'--,TCGA-AA-A01Z
+ca22edd4-eb7c-4677-84aa-6f0354459a19,TCGA-AA-A00R,"Adenocarcinoma, NOS",female,23528,Stage I,0,Alive,'--,TCGA-AA-A00R
+ca5b878f-8bff-410a-8e6e-b1c133018c8d,TCGA-G4-6315,"Adenocarcinoma, NOS",male,24174,Stage IV,1,Alive,'--,TCGA-G4-6315
+ca8374a4-ce94-4091-aa9e-44339a7c4b22,TCGA-AG-3594,Mucinous adenocarcinoma,male,28277,Stage IIA,0,Dead,61,TCGA-AG-3594
+cab7bdbc-0a11-4901-97c3-26b884f79cb5,TCGA-AA-3968,"Adenocarcinoma, NOS",female,20089,Stage I,0,Alive,'--,TCGA-AA-3968
+cac80259-3a26-4a99-b0d3-13454068e6ed,TCGA-AZ-4684,"Adenocarcinoma, NOS",male,18252,Stage IVA,1,Alive,'--,TCGA-AZ-4684
+cb005c69-7301-41ce-b534-c9751f1436c5,TCGA-AG-A002,"Adenocarcinoma, NOS",male,13090,Stage I,0,Alive,'--,TCGA-AG-A002
+cbcb2141-b415-4410-8dd7-2a3cd3980a19,TCGA-AF-3400,Mucinous adenocarcinoma,male,19826,Stage IIA,0,Alive,'--,TCGA-AF-3400
+cbdabbcd-d8f1-4d7c-9e18-ebd83d888c51,TCGA-AA-3949,Mucinous adenocarcinoma,female,32081,Stage IIIB,0,Alive,'--,TCGA-AA-3949
+cbe23011-93b7-4e9f-b934-bd0122f91f54,TCGA-F4-6463,Mucinous adenocarcinoma,male,18804,Stage IIA,0,Alive,'--,TCGA-F4-6463
+cc15469c-7bad-4e86-9da3-ae0c72e9d380,TCGA-CM-4744,"Adenocarcinoma, NOS",male,25506,Stage I,0,Alive,'--,TCGA-CM-4744
+cc1d6ad3-b60d-482e-8fa4-0af26823007d,TCGA-CM-5863,Mucinous adenocarcinoma,female,22127,Stage IIIB,0,Alive,'--,TCGA-CM-5863
+cc22913d-2dda-48bb-82aa-9960b73f3e44,TCGA-NH-A5IV,"Adenocarcinoma, NOS",female,32872,Stage IIA,0,Alive,'--,TCGA-NH-A5IV
+cc2a014b-fb3c-4839-a5fb-6c40e745df1b,TCGA-F5-6811,"Adenocarcinoma, NOS",female,26575,Stage IIA,0,Alive,'--,TCGA-F5-6811
+cc53bf9e-5e27-4305-a08b-552120c10aa5,TCGA-AA-3950,Mucinous adenocarcinoma,female,29130,Stage IIA,0,Alive,'--,TCGA-AA-3950
+cd05d121-f107-4c8e-95a8-153a84f5134a,TCGA-DC-5869,"Adenocarcinoma, NOS",female,22676,Stage IIIB,0,Alive,'--,TCGA-DC-5869
+cd845618-4cc4-49c2-9055-c171d4c24ee1,TCGA-CM-4748,Mucinous adenocarcinoma,male,19509,Stage IIIB,0,Alive,'--,TCGA-CM-4748
+ce00896a-f7d2-4123-bb95-24cb6e53fc32,TCGA-5M-AAT6,Not Reported,female,15071,'--,,Dead,290,TCGA-5M-AAT6
+ce2e0f1c-60ff-4f93-8bba-4f4d3ccac37c,TCGA-AF-6655,"Adenocarcinoma, NOS",male,24417,Stage IIIA,0,Alive,'--,TCGA-AF-6655
+cee553c8-460d-436b-b55d-8f41624816cc,TCGA-G4-6317,"Adenocarcinoma, NOS",female,18822,Stage IIIC,0,Alive,'--,TCGA-G4-6317
+d004a083-6dc6-4db6-96d0-88a8ca3b1b93,TCGA-EI-6511,Adenocarcinoma in tubulovillous adenoma,male,19237,Stage IIIB,0,Alive,'--,TCGA-EI-6511
+d17a2ab0-faef-40de-a87d-1291868b200d,TCGA-AA-3679,"Adenocarcinoma, NOS",male,21611,Stage IV,1,Alive,'--,TCGA-AA-3679
+d181c72b-843c-4b2d-b014-2a6dd1c3c1ec,TCGA-AA-3553,"Adenocarcinoma, NOS",female,22524,Stage I,0,Alive,'--,TCGA-AA-3553
+d259eeb2-d15e-436d-9d37-2d0b7658bc91,TCGA-D5-6534,Mucinous adenocarcinoma,female,22778,Stage IIA,0,Alive,'--,TCGA-D5-6534
+d2c99bed-3446-4d12-99e0-00611faa37dc,TCGA-AA-A004,"Adenocarcinoma, NOS",male,27943,Stage IIA,0,Alive,'--,TCGA-AA-A004
+d3062aac-4c42-41b4-a9f3-90aa72e6fb1e,TCGA-F4-6569,"Adenocarcinoma, NOS",male,22203,Stage I,0,Alive,'--,TCGA-F4-6569
+d3b7ada6-5395-4212-a921-8e97c92b605d,TCGA-NH-A50V,"Adenocarcinoma, NOS",male,25467,Stage IIIB,0,Alive,'--,TCGA-NH-A50V
+d42bc7f0-cfb2-4ece-ae47-521308635633,TCGA-CM-6167,"Adenocarcinoma, NOS",female,21031,Stage IIIC,0,Alive,'--,TCGA-CM-6167
+d461e83a-7f09-4e4c-ac49-f05766a6051a,TCGA-AG-3891,"Adenocarcinoma, NOS",female,24411,Stage I,0,Alive,'--,TCGA-AG-3891
+d4da3298-3a02-44a6-bdcd-d260f38e520b,TCGA-AY-A71X,"Adenocarcinoma, NOS",female,19904,Stage I,0,Alive,'--,TCGA-AY-A71X
+d4e1472a-7b5f-46f4-acb7-b961f634e28e,TCGA-AA-A024,Not Reported,male,'--,'--,,Dead,1188,TCGA-AA-A024
+d5619045-060a-4b60-86e4-6a5774994fd4,TCGA-AA-3989,"Adenocarcinoma, NOS",male,30712,Stage IV,1,Dead,242,TCGA-AA-3989
+d5a1f43e-25a7-47f5-b63e-43714f9f732a,TCGA-QL-A97D,"Adenocarcinoma, NOS",female,30914,Stage I,0,Alive,'--,TCGA-QL-A97D
+d5a296ae-c165-413c-adcc-33c9e99ff873,TCGA-D5-7000,Mucinous adenocarcinoma,female,28913,Stage I,0,Alive,'--,TCGA-D5-7000
+d63a90d4-730f-4916-af02-d06854221d7a,TCGA-AG-4009,"Adenocarcinoma, NOS",male,30559,Stage I,0,Alive,'--,TCGA-AG-4009
+d651f9ba-8746-46c4-852c-6c2992c7d10e,TCGA-AA-3667,"Adenocarcinoma, NOS",female,13302,Stage I,0,Alive,'--,TCGA-AA-3667
+d655bbf6-c710-411d-aff5-ceb0fb6e6680,TCGA-AA-3867,Not Reported,male,'--,'--,,Alive,'--,TCGA-AA-3867
+d7048098-09b3-4763-ad54-9c5c6fe14bc0,TCGA-CM-6678,"Adenocarcinoma, NOS",female,23070,'--,,Alive,'--,TCGA-CM-6678
+d71ae66e-2c8a-4fd8-8b4b-a5a2d456a21d,TCGA-DM-A1DB,"Adenocarcinoma, NOS",male,24888,Stage IIA,0,Dead,1348,TCGA-DM-A1DB
+d761bc06-dee8-478a-be99-8af9c504e49c,TCGA-AA-3684,Mucinous adenocarcinoma,female,23741,Stage IV,1,Alive,'--,TCGA-AA-3684
+d7ba64d7-b4e5-488d-9f28-bcb7bf3c0f35,TCGA-AA-3522,"Adenocarcinoma, NOS",male,24653,Stage IIA,0,Alive,'--,TCGA-AA-3522
+d7cb062c-898d-4452-8e87-57262162bafa,TCGA-F5-6465,"Adenocarcinoma, NOS",female,23432,Stage IIA,0,Alive,'--,TCGA-F5-6465
+d7ebd11a-1339-4b28-be90-a788d2cfa706,TCGA-AA-3811,Adenocarcinoma with neuroendocrine differentiation,female,30893,Stage III,0,Dead,306,TCGA-AA-3811
+d846228f-67af-4b3b-9796-dbc263c2054c,TCGA-AG-4001,"Adenocarcinoma, NOS",female,27302,Stage IIA,0,Alive,'--,TCGA-AG-4001
+d8bfcc67-f5c3-42cd-9fc4-bd483f896da1,TCGA-EI-6508,Adenocarcinoma in tubulovillous adenoma,female,17827,Stage IIIB,0,Alive,'--,TCGA-EI-6508
+d8e9ea52-ff28-4626-baa3-71350fd53ddf,TCGA-AY-A54L,Not Reported,female,27470,'--,,Alive,'--,TCGA-AY-A54L
+d9121e5a-88f2-47a6-a0b1-25735c209e54,TCGA-AH-6644,"Adenocarcinoma, NOS",male,26892,'--,,Alive,'--,TCGA-AH-6644
+d976782c-90c1-421d-b83c-7fc2617e2709,TCGA-A6-2677,Clear cell carcinoma,female,'--,Stage III,0,Dead,740,TCGA-A6-2677
+d9d7f0d4-fa64-48f2-8037-52cbf0b34ad8,TCGA-AA-3516,Not Reported,female,'--,'--,0,Dead,396,TCGA-AA-3516
+d9fb85c3-ade1-47bf-8159-170f81eb130f,TCGA-AA-3662,Not Reported,female,'--,'--,,Alive,'--,TCGA-AA-3662
+da21e143-dbf6-4ac7-8872-f1d9ae39512d,TCGA-G4-6320,"Adenocarcinoma, NOS",male,26840,Stage III,0,Alive,'--,TCGA-G4-6320
+db1e3104-8bfd-4353-854a-c478ba1f7d07,TCGA-AG-3582,"Adenocarcinoma, NOS",male,27636,Stage IV,1,Dead,1096,TCGA-AG-3582
+db246424-3979-4f23-b316-8d30c449ee15,TCGA-AA-3984,"Adenocarcinoma, NOS",female,22585,Stage IIA,0,Alive,'--,TCGA-AA-3984
+dbbee8f5-d83d-4195-85cf-f89d327da0a9,TCGA-A6-5657,"Adenocarcinoma, NOS",male,23920,Stage IIIB,0,Alive,'--,TCGA-A6-5657
+dc22eba5-6fb7-4875-b30a-99fa00758301,TCGA-D5-6920,"Adenocarcinoma, NOS",female,28124,Stage IIA,0,Alive,'--,TCGA-D5-6920
+dca004bf-9c14-45a1-b186-ab3759f6c7fe,TCGA-AA-3685,"Adenocarcinoma, NOS",male,25506,Stage II,0,Alive,'--,TCGA-AA-3685
+dd4be58e-da22-4bcd-bf4c-2b9e60ffda19,TCGA-AA-A02F,"Carcinoma, NOS",female,25051,Stage IV,1,Alive,'--,TCGA-AA-A02F
+dd7a53ee-cb08-40c4-9935-51d1ca17e9e8,TCGA-A6-A565,Mucinous adenocarcinoma,female,12526,Stage IIIC,0,Dead,494,TCGA-A6-A565
+dde411b2-5d2b-4638-8149-89bc1eb3c7ad,TCGA-AA-3697,"Adenocarcinoma, NOS",male,28367,Stage II,0,Alive,'--,TCGA-AA-3697
+ddf69ed9-4c53-48b8-9f01-495bd60c3425,TCGA-AA-3514,"Adenocarcinoma, NOS",female,29738,Stage I,0,Alive,'--,TCGA-AA-3514
+de287a25-981d-49f8-81af-fe0300e4cd31,TCGA-AZ-4315,"Adenocarcinoma, NOS",male,22340,Stage IIA,0,Alive,'--,TCGA-AZ-4315
+ded3feb2-1079-4520-a7ca-f5b5fc73d7c5,TCGA-AG-3892,"Adenocarcinoma, NOS",female,20880,Stage I,0,Alive,'--,TCGA-AG-3892
+df228c56-89ac-4122-93b3-6c0740c4ec09,TCGA-AA-3534,"Adenocarcinoma, NOS",female,28489,Stage IIA,0,Alive,'--,TCGA-AA-3534
+df5ab6cc-6f68-4b6b-95e2-954c6b57ba9c,TCGA-CA-6718,"Adenocarcinoma, NOS",male,17109,Stage IIA,0,Dead,306,TCGA-CA-6718
+e17959bd-045d-4540-b43a-c3863e8ff3c0,TCGA-G4-6295,"Adenocarcinoma, NOS",female,25758,Stage II,0,Alive,'--,TCGA-G4-6295
+e2d395f8-bf13-4fe4-8031-683b0eedd875,TCGA-AG-3890,"Adenocarcinoma, NOS",male,22950,Stage I,0,Alive,'--,TCGA-AG-3890
+e2edbf3f-25d8-49aa-b656-2a59c3b99aeb,TCGA-AA-A01D,Not Reported,female,17501,'--,,Dead,334,TCGA-AA-A01D
+e394e9ec-7288-4ede-9ef8-41b631d100dd,TCGA-AA-3715,Adenosquamous carcinoma,male,28428,Stage II,0,Dead,579,TCGA-AA-3715
+e3a80e41-2e46-4b04-86c6-fd444d616ab5,TCGA-EI-6882,Adenocarcinoma with mixed subtypes,male,21682,Stage IIA,0,Alive,'--,TCGA-EI-6882
+e3b0ee77-c419-4b2b-833f-90a221415489,TCGA-NH-A6GB,"Adenocarcinoma, NOS",female,26100,Stage IIIC,0,Alive,'--,TCGA-NH-A6GB
+e3b6018c-ab2c-47c5-b183-a295d0110835,TCGA-DM-A1D9,"Adenocarcinoma, NOS",female,24514,Stage IIA,0,Alive,'--,TCGA-DM-A1D9
+e3ca9046-9634-4332-b19f-88b18110f941,TCGA-CM-4751,"Adenocarcinoma, NOS",male,22891,Stage IIIB,0,Alive,'--,TCGA-CM-4751
+e457344d-76fb-46bf-b362-61a6e811d131,TCGA-AA-A00N,Mucinous adenocarcinoma,male,27667,Stage IIB,0,Dead,122,TCGA-AA-A00N
+e4be17c8-0855-432c-bb80-28bb24b62f32,TCGA-G4-6309,Not Reported,female,16905,'--,,Alive,'--,TCGA-G4-6309
+e4c0d890-a634-48bd-9108-e674532b0d2e,TCGA-D5-6531,"Adenocarcinoma, NOS",male,27633,Stage IIA,0,Alive,'--,TCGA-D5-6531
+e588714a-7753-4c3c-abb6-eaf1aab53ab3,TCGA-AZ-4682,"Adenocarcinoma, NOS",male,22409,Stage IVA,1,Dead,680,TCGA-AZ-4682
+e5921d6b-51cf-44be-b295-610cf7c3a69a,TCGA-A6-2685,"Adenocarcinoma, NOS",female,17757,Stage IIA,0,Alive,'--,TCGA-A6-2685
+e5d7bbd4-4f38-4a5a-9966-f44f8a15a10e,TCGA-F5-6812,"Adenocarcinoma, NOS",male,24490,Stage IIA,0,Alive,'--,TCGA-F5-6812
+e5e4aa9f-6015-4d62-a088-69920d7f2500,TCGA-AG-3885,"Adenocarcinoma, NOS",female,26145,Stage IIIB,0,Alive,'--,TCGA-AG-3885
+e6827400-0d95-46b0-8874-6ce9e9d5011b,TCGA-AG-3727,"Adenocarcinoma, NOS",female,28641,Stage III,0,Alive,'--,TCGA-AG-3727
+e6c8c5fc-158a-4de4-b3f6-3b645584bbc7,TCGA-AA-A03J,"Adenocarcinoma, NOS",female,23986,Stage I,0,Alive,'--,TCGA-AA-A03J
+e6ec5a68-7555-4f26-bd7e-9cdb4c5f7004,TCGA-AA-3549,"Adenocarcinoma, NOS",male,25415,Stage I,0,Alive,'--,TCGA-AA-3549
+e703af88-c05f-4d7b-b225-d640e4d1a2a5,TCGA-AZ-4616,"Adenocarcinoma, NOS",female,30043,Stage IV,1,Dead,156,TCGA-AZ-4616
+e7503a51-6647-4cc2-80dd-645d0df4db43,TCGA-AG-A008,Mucinous adenocarcinoma,female,18416,Stage I,0,Alive,'--,TCGA-AG-A008
+e75985cb-357e-4072-b047-eea37965d70c,TCGA-DM-A282,Mucinous adenocarcinoma,female,22265,Stage IIA,0,Alive,'--,TCGA-DM-A282
+e76258b7-e13a-4b05-855b-d792701ffba1,TCGA-F4-6805,"Adenocarcinoma, NOS",female,21241,Stage IIA,0,Alive,'--,TCGA-F4-6805
+e7af286b-3dec-4cf2-8fbd-fa64b3efdf7f,TCGA-F4-6809,"Adenocarcinoma, NOS",female,19039,Stage IVA,1,Dead,403,TCGA-F4-6809
+e7dbfca1-9657-4952-8e0d-dec6373dda5b,TCGA-G4-6321,Not Reported,female,'--,'--,,Alive,'--,TCGA-G4-6321
+e831369c-78c0-4c75-9cf3-f46ed669312e,TCGA-AA-3544,"Adenocarcinoma, NOS",male,24959,Stage I,0,Alive,'--,TCGA-AA-3544
+e83e5700-f968-4978-bb78-56a83936ce8c,TCGA-D5-6536,"Adenocarcinoma, NOS",male,26890,Stage IIA,0,Alive,'--,TCGA-D5-6536
+e8841edf-e070-425b-b4d4-bbb2115f9dbd,TCGA-AA-3973,"Adenocarcinoma, NOS",male,25536,Stage IV,1,Alive,'--,TCGA-AA-3973
+e8e80df9-e3ba-4dec-b8fc-a5e80d8c6798,TCGA-AD-6890,"Adenocarcinoma, NOS",male,23769,'--,,Alive,'--,TCGA-AD-6890
+e8ec26bd-c88d-42b9-ac8a-ab121b8140f8,TCGA-AD-A5EK,"Adenocarcinoma, NOS",male,18731,Stage I,0,Alive,'--,TCGA-AD-A5EK
+ea923671-3903-4a79-830d-e7e4b1eabab0,TCGA-AD-6899,Mucinous adenocarcinoma,male,30693,Stage IIIC,0,Dead,176,TCGA-AD-6899
+eb191e71-4b6e-4c8d-8348-519be5a1e657,TCGA-DM-A1D6,Mucinous adenocarcinoma,male,32302,Stage IIA,0,Dead,570,TCGA-DM-A1D6
+eb4e4e09-98b3-4e85-8dd2-75676ff2af14,TCGA-A6-5656,"Adenocarcinoma, NOS",male,27184,Stage I,0,Alive,'--,TCGA-A6-5656
+eb75ca70-e60f-453f-820c-485390abad88,TCGA-DC-6155,"Adenocarcinoma, NOS",female,11381,Stage IIIA,0,Alive,'--,TCGA-DC-6155
+ebc5a6f8-34fd-48c1-a2b9-7f60f45fbf27,TCGA-D5-6537,Not Reported,male,23504,'--,,Dead,146,TCGA-D5-6537
+ec2abe34-6566-4c2f-8d06-ade2e858b301,TCGA-AG-3906,"Adenocarcinoma, NOS",female,24806,Stage I,0,Alive,'--,TCGA-AG-3906
+ec3f3f11-75df-4fcc-ba03-f19aca907645,TCGA-CM-6162,Mucinous adenocarcinoma,female,17624,Stage IIIB,0,Alive,'--,TCGA-CM-6162
+eeb42912-0c7a-46bb-bd95-369b2b425727,TCGA-F4-6570,"Adenocarcinoma, NOS",female,28772,Stage IIA,0,Dead,188,TCGA-F4-6570
+eecaa5cd-0b69-4af2-a782-035025f207b6,TCGA-D5-6928,Mucinous adenocarcinoma,male,29411,Stage IIA,0,Alive,'--,TCGA-D5-6928
+eed7405f-f8f3-41a4-a0e7-242f23087f59,TCGA-CM-6171,"Adenocarcinoma, NOS",female,28307,Stage I,0,Alive,'--,TCGA-CM-6171
+ef4bb5bf-4535-4bd1-8a74-aba920123ee2,TCGA-D5-6539,"Adenocarcinoma, NOS",female,16703,'--,0,Alive,'--,TCGA-D5-6539
+f1ce4b5f-55d0-4989-a5f3-6b6e591538b2,TCGA-F5-6702,Unknown,male,26491,'--,,Dead,869,TCGA-F5-6702
+f1e6ce83-b4a0-4643-8e8e-a1ef8a158a27,TCGA-AZ-6608,"Hodgkin lymphoma, NOS",female,'--,'--,,Dead,59,TCGA-AZ-6608
+f2a8deb2-0e2c-4bbd-8fa1-99b7abb2f3aa,TCGA-AG-A036,"Adenocarcinoma, NOS",male,26206,Stage III,0,Alive,'--,TCGA-AG-A036
+f2ef5afa-6191-43a1-a023-d53c0d985139,TCGA-AA-3846,"Adenocarcinoma, NOS",female,27057,Stage IIA,0,Alive,'--,TCGA-AA-3846
+f38d49b7-6cad-4460-abd0-3685a3b2d941,TCGA-AA-3814,Adenocarcinoma with mixed subtypes,female,31380,Stage IIA,0,Alive,'--,TCGA-AA-3814
+f3b9defb-88ed-4c95-9feb-7197d869676c,TCGA-AA-3680,"Adenocarcinoma, NOS",female,24655,Stage IV,1,Dead,335,TCGA-AA-3680
+f49a8e1e-d247-4c76-ac3b-ad8e5d6b8d18,TCGA-CL-5918,"Adenocarcinoma, NOS",female,32872,Stage IIA,0,Alive,'--,TCGA-CL-5918
+f4a804d3-b5c4-4da5-800f-6e5757ecfa1c,TCGA-DM-A1DA,"Adenocarcinoma, NOS",female,26169,Stage IIIC,0,Dead,228,TCGA-DM-A1DA
+f4e047a5-bdb2-4bc2-aff0-e0f45bcc9062,TCGA-CM-6165,"Adenocarcinoma, NOS",male,27302,Stage IIA,0,Alive,'--,TCGA-CM-6165
+f5c3bc61-1018-4351-bb23-aacc1459365f,TCGA-AA-3710,"Adenocarcinoma, NOS",female,29465,Stage IIA,0,Alive,'--,TCGA-AA-3710
+f6c674bf-396d-4bfe-8d08-e7266c314be3,TCGA-AY-6197,"Adenocarcinoma, NOS",male,21957,Stage IIA,0,Alive,'--,TCGA-AY-6197
+f83b909c-da90-41ed-b532-a2ef9371cff9,TCGA-DM-A28C,Not Reported,male,29002,'--,,Dead,2475,TCGA-DM-A28C
+f87c6dcc-1a9e-4df5-962c-1f946e2611f8,TCGA-AA-A01T,"Adenocarcinoma, NOS",female,23192,Stage III,0,Alive,'--,TCGA-AA-A01T
+f88c0259-58ff-4bcc-a777-7705cdbd8213,TCGA-A6-5664,"Adenocarcinoma, NOS",male,29426,Stage IIIC,0,Alive,'--,TCGA-A6-5664
+f89bbd17-c732-4847-b71c-a8627a702747,TCGA-D5-6530,"Adenocarcinoma, NOS",male,19591,Stage I,0,Alive,'--,TCGA-D5-6530
+f9204a59-6877-4d06-a20e-fd7ab0859ed5,TCGA-AF-2687,Unknown,male,22365,'--,,Alive,'--,TCGA-AF-2687
+f9b5e6a5-c2da-4a0d-9251-bb6f557b7b58,TCGA-AA-3660,"Adenocarcinoma, NOS",female,18932,Stage II,0,Alive,'--,TCGA-AA-3660
+fa83dfb5-7386-4a35-9861-aa866478d5f1,TCGA-D5-6533,"Adenocarcinoma, NOS",female,24971,'--,0,Alive,'--,TCGA-D5-6533
+fa96d094-0165-401c-8fd5-6d1ee4ef3994,TCGA-AA-A00W,"Adenocarcinoma, NOS",male,29311,Stage I,0,Alive,'--,TCGA-AA-A00W
+fac2c617-8149-45bb-b766-fbe13dc3c425,TCGA-DM-A1D7,Not Reported,male,30222,'--,,Dead,405,TCGA-DM-A1D7
+fafd4576-0709-49e1-926f-ad1ee09907ec,TCGA-A6-2683,Not Reported,female,21171,'--,,Dead,504,TCGA-A6-2683
+fb4cc403-694c-421f-b360-3108b6d57ad5,TCGA-AU-3779,"Adenocarcinoma, NOS",female,29460,Stage IIA,0,Alive,'--,TCGA-AU-3779
+fb632146-92c7-40d9-acc3-6dc4a2d499be,TCGA-AG-3611,Not Reported,male,'--,'--,,Alive,'--,TCGA-AG-3611
+fb9e7684-a7f7-4f17-bc5d-1f359e1b0d42,TCGA-CM-6680,"Adenocarcinoma, NOS",female,28701,Stage IIIB,0,Alive,'--,TCGA-CM-6680
+fbb69964-f962-4b89-b59b-dd05f8faf61a,TCGA-AZ-6599,"Adenocarcinoma, NOS",male,26438,Stage I,0,Dead,206,TCGA-AZ-6599
+fbcd7e69-533f-4b6c-9868-162139135b58,TCGA-AG-3742,"Adenocarcinoma, NOS",female,31078,Stage I,0,Alive,'--,TCGA-AG-3742
+fce1fd5a-54d2-4260-b187-4eb7035e96e9,TCGA-CM-6675,Not Reported,male,13272,'--,,Alive,'--,TCGA-CM-6675
+fd16b634-2e04-44a3-862d-fb03cd73c057,TCGA-AA-3556,Multiple myeloma,male,'--,'--,,Alive,'--,TCGA-AA-3556
+fd798ddf-7273-49b8-b13c-d9909c8c87ff,TCGA-AG-3725,"Adenocarcinoma, NOS",female,32872,Stage III,0,Alive,'--,TCGA-AG-3725
+fdeeff8e-1328-42a4-aca0-a03b97421f1e,TCGA-AG-3878,"Adenocarcinoma, NOS",male,23527,Stage I,0,Alive,'--,TCGA-AG-3878
+fdffda5f-72b2-4153-b7f1-d7043b7ca898,TCGA-AA-3818,"Adenocarcinoma, NOS",female,28763,Stage IIA,0,Dead,30,TCGA-AA-3818
+ff004403-8cc5-43e6-bd1c-dde4eb1e6193,TCGA-AG-A00C,"Adenocarcinoma, NOS",female,18201,Stage IIIB,0,Alive,'--,TCGA-AG-A00C
+ff1407c6-9174-4bae-a19b-d34ca71b898c,TCGA-A6-2680,"Adenocarcinoma, NOS",female,26533,Stage II,0,Alive,'--,TCGA-A6-2680
+ff427104-0727-483c-8513-243dec80db9d,TCGA-G5-6233,"Adenocarcinoma, NOS",male,27190,'--,0,Dead,556,TCGA-G5-6233
+ffa7e03a-4a3c-41f0-937a-4fb862fd2194,TCGA-DM-A28G,"Adenocarcinoma, NOS",male,27641,Stage IIA,0,Dead,1849,TCGA-DM-A28G
