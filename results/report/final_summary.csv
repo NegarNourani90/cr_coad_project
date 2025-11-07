@@ -1,4 +1,0 @@
-model,accuracy,auc,f1
-xgboost,0.9763779527559056,0.9298245614035088,0.8695652173913043
-image,0.4,,
-clinical+image_fusion_xgb,1.0,,0.0

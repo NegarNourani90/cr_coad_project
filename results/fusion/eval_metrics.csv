@@ -1,2 +1,0 @@
-model,accuracy,auc,f1
-clinical+image_fusion_xgb,1.0,,0.0

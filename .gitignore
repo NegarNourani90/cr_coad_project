@@ -44,3 +44,11 @@ experiments/runs/
 !data/processed/clinical/manifest_sample.csv
 !data/processed/images/rep_index_sample.csv
 
+# Ignore all generated results
+results/
+*.h5
+*.keras
+*.npy
+*.csv
+*.tf
+
