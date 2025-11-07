@@ -7,7 +7,7 @@
 
 ## Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/cr_coad_project.git
+git clone https://github.com/NegarNourani90/cr_coad_project.git
 cd cr_coad_project
 conda env create -f environment_gpu.yml
-conda activate crlm
+conda activate crlm 
