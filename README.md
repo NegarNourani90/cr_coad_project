@@ -1,90 +1,113 @@
-# Multimodal AI for Early Metastasis Detection in Colorectal Cancer
+🧠 Multimodal AI for Early Metastasis Detection in Colorectal Cancer
 
-This research project investigates the early prediction of metastasis in colorectal cancer using **medical imaging** and **clinical data**.  
-The study integrates CT imaging (from TCIA) and clinical records (from TCGA COAD/READ) to build and evaluate model architectures that combine image and clinical features for metastasis risk prediction.
+This research project investigates early prediction of metastasis in colorectal cancer using medical imaging and clinical data.
+It integrates CT imaging (from TCIA) and clinical records (from TCGA COAD/READ) to build, explain, and evaluate multimodal AI models that predict metastasis risk.
 
----
+🚀 Quick Start (GPU Training)
 
-## 📂 Project Structure
+To train the EfficientNetB3 image model on a GPU machine:
+
+conda env create -f environment_gpu.yml
+conda activate crlm
+jupyter nbconvert --to notebook --execute notebooks/06_train_image_model.ipynb
 
 
----
+➡️ See the full GPU Training Guide
+ for detailed setup and troubleshooting.
 
-## 📊 Datasets Used
+📂 Project Structure
+Folder	Description
+data/	Processed clinical and imaging data
+notebooks/	Jupyter notebooks for preprocessing, training, and evaluation
+results/	Saved model outputs (clinical, imaging, fusion)
+scripts/	Utility scripts for automation or evaluation
+docs/	Documentation and supporting files
+📊 Datasets Used
+Dataset	Description	Access
+TCGA-COAD	Clinical data for colon adenocarcinoma patients	GDC Data Portal
 
-This project uses **publicly available datasets**:
+TCGA-READ	Clinical data for rectum adenocarcinoma patients	GDC Data Portal
 
-| Dataset | Description | Access |
-|--------|--------------|--------|
-| **TCGA-COAD** | Clinical data for colon adenocarcinoma patients | GDC Data Portal |
-| **TCGA-READ** | Clinical data for rectum adenocarcinoma patients | GDC Data Portal |
-| **TCIA CRLM** (Colorectal Liver Metastases) | CT imaging dataset of colorectal cancer patients with/without metastases | The Cancer Imaging Archive (TCIA) |
-| *(If available)* TCGA-COAD Imaging (TCIA) | CT or MRI scans for a subset of TCGA-COAD patients | The Cancer Imaging Archive (TCIA) |
+TCIA CRLM	CT imaging dataset of colorectal cancer patients with/without metastases	The Cancer Imaging Archive (TCIA)
 
-> **Note:** All datasets are used under their respective public access policies.  
-> Genomic data requiring dbGaP authorization is **not included in this project**.
+(Optional) TCGA-COAD Imaging	CT or MRI subset of TCGA-COAD	TCIA
 
----
+Note: All datasets are publicly available.
+Genomic or private data requiring dbGaP authorization is not included.
 
-## 🧠 Research Objectives
+🎯 Research Objectives
 
-- Develop deep learning models using **medical imaging** (CT)
-- Develop machine learning models using **clinical features**
-- Build and evaluate **fusion models** that combine both modalities
-- Compare image-only vs clinical-only vs multimodal performance
-- Provide explainability using **Grad-CAM** (images) and **SHAP** (clinical)
+Develop deep learning models using medical imaging (CT)
 
----
+Build machine learning models using clinical features
 
-## ⚙️ Environment & Requirements
+Design fusion models combining both modalities
 
-Recommended environment:
+Compare image-only, clinical-only, and multimodal models
 
-- Python 3.10  
-- Conda or virtual environment  
-- GPU (optional but recommended)  
+Provide interpretability via Grad-CAM (for images) and SHAP (for clinical data)
 
-Example environment setup:
+⚙️ Environment & Requirements
 
-```bash
+Recommended setup:
+
+Python 3.10
+
+Conda (for environment management)
+
+NVIDIA GPU with CUDA ≥ 11.2 (optional but strongly recommended)
+
+Example setup (CPU):
+
 conda create -n crlm python=3.10 -y
 conda activate crlm
 pip install -r requirements.txt
-```
 
 
-Project Summary – Multimodal Metastasis Prediction (TCGA-COAD)
+For GPU setup, use:
 
-Repository: cr_coad_project
+conda env create -f environment_gpu.yml
+conda activate crlm
 
-Objective: Predict metastasis in colorectal adenocarcinoma using clinical data, histopathology image embeddings, and their fusion.
-
-📁 Data Workflow
+📘 Data Workflow Summary
 Step	Notebook	Description	Output
-01–05	Data preprocessing	Extracted and cleaned clinical + image data from TCGA and TCIA.	data/processed/
-06	Image model training	Fine-tuned EfficientNetB0 on representative WSI slices.	results/images/baseline_image_model_clean_tf
-07	Feature extraction	Exported 1280-dimensional embeddings per case.	data/processed/images/image_embeddings_1280.csv
-08	Clinical model	Trained XGBoost on structured clinical features.	results/clinical/eval_metrics.csv
-09	Fusion model	Combined clinical + image features, trained XGBoost fusion model.	results/fusion/fusion_model.pkl
-10	Final report	Consolidated all metrics, visualized results, generated summary report.	results/report/final_summary.pdf
-
-📈 Model Performance
+01–05	Preprocessing	Extract and clean clinical + image data	data/processed/
+06	Image model training	Fine-tune EfficientNetB3 on CT slices	results/images/
+07	Feature extraction	Export embeddings for each image slice	data/processed/images/
+08	Clinical model	Train XGBoost on structured features	results/clinical/
+09	Fusion model	Combine embeddings + clinical features	results/fusion/
+10	Reporting	Summarize metrics and visualizations	results/report/
+📈 Model Performance (Preliminary)
 Model	Accuracy	AUC	F1
 Clinical (XGBoost)	0.976	0.930	0.870
-Image-only	0.400	—	—
-Clinical + Image Fusion	1.000	—	0.000
+Image-only (EfficientNetB3)	0.400	—	—
+Fusion (Clinical + Image)	1.000	—	0.000
 
 Interpretation:
-Clinical data alone provides robust prediction.
 
-Image-only model underperforms due to limited feature diversity.
+Clinical data alone provides strong predictive power.
 
-Fusion model shows promising synergy but overfits small datasets.
+Image-only model underperforms due to limited data volume.
 
+Fusion model shows potential but overfits with small datasets.
 
-📊 Visualization
+📊 Visualization Outputs
+
 results/report/final_summary.pdf includes:
 
-Comparative bar chart of model metrics (Accuracy, AUC, F1).
+Bar charts comparing model metrics (Accuracy, AUC, F1)
 
-Ranked performance summary and “Best Model per Metric” table.
+Ranked performance summary
+
+“Best model per metric” table
+
+👩‍🔬 Citation
+
+If you use this project, please cite it as:
+
+Nourani, N. et al., “Multimodal AI for Early Metastasis Detection in Colorectal Cancer,” 2025.
+
+🧠 Contact
+
+For questions, collaborations, or dataset details:
+📧 nenonegar [at] gmail [dot] com

@@ -1,13 +1,16 @@
-# 🧠 GPU Training Guide (EfficientNetB3)
+# 🧠 GPU Training Guide — CR/COAD Project
 
-## Requirements
-- NVIDIA GPU with ≥8 GB VRAM
-- CUDA 11.x or newer
-- Conda (Anaconda/Miniconda)
+This guide explains how to set up and train the **EfficientNetB3 metastasis classifier** on a GPU machine quickly and reliably.
 
-## Setup
+---
+
+## 🚀 1. Clone the Repository
+Clone the latest version of the project:
+
 ```bash
 git clone https://github.com/NegarNourani90/cr_coad_project.git
 cd cr_coad_project
+
 conda env create -f environment_gpu.yml
-conda activate crlm 
+conda activate crlm
+```
