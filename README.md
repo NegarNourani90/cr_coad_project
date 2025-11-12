@@ -59,29 +59,29 @@ NVIDIA GPU with CUDA ≥ 11.2 (optional but strongly recommended)
 
 Example setup (CPU):
 
-conda create -n crlm python=3.10 -y
+conda create -n crlm python=3.10 -y  
 conda activate crlm
 pip install -r requirements.txt
 
 
 For GPU setup, use:
 
-conda env create -f environment_gpu.yml
+conda env create -f environment_gpu.yml  
 conda activate crlm
 
 📘 Data Workflow Summary
 Step	Notebook	Description	Output
-01–05	Preprocessing	Extract and clean clinical + image data	data/processed/
-06	Image model training	Fine-tune EfficientNetB3 on CT slices	results/images/
-07	Feature extraction	Export embeddings for each image slice	data/processed/images/
-08	Clinical model	Train XGBoost on structured features	results/clinical/
-09	Fusion model	Combine embeddings + clinical features	results/fusion/
-10	Reporting	Summarize metrics and visualizations	results/report/
-📈 Model Performance (Preliminary)
-Model	Accuracy	AUC	F1
-Clinical (XGBoost)	0.976	0.930	0.870
-Image-only (EfficientNetB3)	0.400	—	—
-Fusion (Clinical + Image)	1.000	—	0.000
+01–05	Preprocessing	Extract and clean clinical + image data	data/processed/  
+06	Image model training	Fine-tune EfficientNetB3 on CT slices	results/images/  
+07	Feature extraction	Export embeddings for each image slice	data/processed/images/  
+08	Clinical model	Train XGBoost on structured features	results/clinical/  
+09	Fusion model	Combine embeddings + clinical features	results/fusion/  
+10	Reporting	Summarize metrics and visualizations	results/report/  
+📈 Model Performance (Preliminary)  
+Model	Accuracy	AUC	F1  
+Clinical (XGBoost)	0.976	0.930	0.870  
+Image-only (EfficientNetB3)	0.400	—	—  
+Fusion (Clinical + Image)	1.000	—	0.000  
 
 Interpretation:
 
