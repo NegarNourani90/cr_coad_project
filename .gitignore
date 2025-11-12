@@ -20,9 +20,12 @@ data/TCGA_Clinical_Data/
 data/raw/
 data/intermediate/
 # ignore everything in the folder…
-data/processed/images/all_slices
+data/processed/images/all_slices/
 
-# …but allow this tiny sample index
+# unignore the parent folder itself
+!data/processed/images/
+
+# …but allow these tiny sample indexes
 !data/processed/images/index_sample.csv
 !data/processed/images/all_index.csv
 
