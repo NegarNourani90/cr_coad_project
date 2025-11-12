@@ -20,10 +20,11 @@ data/TCGA_Clinical_Data/
 data/raw/
 data/intermediate/
 # ignore everything in the folder…
-data/processed/images/*
+data/processed/images/all_slices
 
 # …but allow this tiny sample index
 !data/processed/images/index_sample.csv
+!data/processed/images/all_index.csv
 
 data/processed/genomics/
 data/master/
@@ -43,7 +44,6 @@ experiments/runs/
 # Allow a tiny sample if needed (uncomment line below when you create it)
 !data/processed/clinical/manifest_sample.csv
 !data/processed/images/rep_index_sample.csv
-!data/processed/images/all_index.csv
 
 # Ignore all generated results
 results/
