@@ -1,9 +1,9 @@
-🧠 Multimodal AI for Early Metastasis Detection in Colorectal Cancer
+## 🧠 Multimodal AI for Early Metastasis Detection in Colorectal Cancer
 
 This research project investigates early prediction of metastasis in colorectal cancer using medical imaging and clinical data.
 It integrates CT imaging (from TCIA) and clinical records (from TCGA COAD/READ) to build, explain, and evaluate multimodal AI models that predict metastasis risk.
 
-🚀 Quick Start (GPU Training)
+## 🚀 Quick Start (GPU Training)
 
 To train the EfficientNetB3 image model on a GPU machine:
 
@@ -41,7 +41,7 @@ Note: All datasets are publicly available.
 Genomic or private data requiring dbGaP authorization is not included.  
 
 
-🎯 Research Objectives
+## 🎯 Research Objectives
 
 Develop deep learning models using medical imaging (CT)
 
@@ -54,7 +54,7 @@ Compare image-only, clinical-only, and multimodal models
 Provide interpretability via Grad-CAM (for images) and SHAP (for clinical data)
 
 
-⚙️ Environment & Requirements
+## ⚙️ Environment & Requirements
 
 Recommended setup:
 
@@ -108,7 +108,8 @@ Image-only model underperforms due to limited data volume.
 
 Fusion model shows potential but overfits with small datasets.
 
-📊 Visualization Outputs
+
+## 📊 Visualization Outputs
 
 results/report/final_summary.pdf includes:
 
@@ -119,14 +120,14 @@ Ranked performance summary
 “Best model per metric” table
 
 
-👩‍🔬 Citation
+## 👩‍🔬 Citation
 
 If you use this project, please cite it as:
 
 Nourani, N. et al., “Multimodal AI for Early Metastasis Detection in Colorectal Cancer,” 2025.
 
 
-🧠 Contact
+## 🧠 Contact
 
 For questions, collaborations, or dataset details:  
 📧 nenonegar [at] gmail [dot] com
