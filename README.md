@@ -8,7 +8,9 @@ It integrates CT imaging (from TCIA) and clinical records (from TCGA COAD/READ) 
 To train the EfficientNetB3 image model on a GPU machine:
 
 conda env create -f environment_gpu.yml
+
 conda activate crlm
+
 jupyter nbconvert --to notebook --execute notebooks/06_train_image_model.ipynb
 
 
